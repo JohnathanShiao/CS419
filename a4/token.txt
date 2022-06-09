@@ -1,0 +1,7 @@
+File: a.txt
+Initial-hash: 838jf23ioui9ehorajiiohw8
+Proof-of-work: Yi+
+Hash: 00000cb2fd2996146d9d8f5d7863d2bc3d39d04beebb214112aa270196753afa
+Leading-zero-bits: 20
+Iterations: 267472
+Compute-time: 0.9934022426605225

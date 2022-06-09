@@ -1,0 +1,4922 @@
+prev_cipher: 95 5c 98 9a 89 a6 29 50 3f 8b 82 76 63 04 cc be 
+encrypted block before shuffle: 95 5c 98 9a 89 a6 29 50 3f 8b 82 76 63 04 cc be 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: b8 3e 6b 2a a0 08 66 8c da 31 e9 be 02 82 8b ca 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 95 5c 98 9a 89 a6 29 50 3f 8b 82 76 63 04 cc be 
+plaintext before xor with CBC: e9 da 66 a0 ca 8b 31 8c 02 6b 08 b8 82 be 3e 2a 
+after plaintext xor CBC: 54 68 65 20 73 75 6e 20 77 61 73 20 73 68 69 6e 
+
+prev_cipher: 95 5c 98 9a 89 a6 29 50 3f 8b 82 76 63 04 cc be 
+encrypted block before shuffle: 9b fc d1 c4 90 5b 8b ae b5 0f bd 04 6b c9 ff f3 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 06 ee 32 24 09 05 b4 a2 e0 65 e6 fc ba ff c8 57 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 95 5c 98 9a 89 a6 29 50 3f 8b 82 76 63 04 cc be 
+plaintext before xor with CBC: fc 32 ff ba e6 c8 09 24 57 ee a2 05 06 65 e0 b4 
+after plaintext xor CBC: 69 6e 67 20 6f 6e 20 74 68 65 20 73 65 61 2c 0a 
+
+prev_cipher: 9b fc d1 c4 90 5b 8b ae b5 0f bd 04 6b c9 ff f3 
+encrypted block before shuffle: 9e ae 5d a8 a3 c6 49 fe 5a 8e e3 d1 74 2f cb 9f 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: 93 6c 8e b8 aa c8 66 c2 9f 94 a8 f9 35 c9 ec 4b 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: 9b fc d1 c4 90 5b 8b ae b5 0f bd 04 6b c9 ff f3 
+plaintext before xor with CBC: c8 94 b8 aa f9 35 ec 8e c2 66 c9 6c 4b a8 93 9f 
+after plaintext xor CBC: 53 68 69 6e 69 6e 67 20 77 69 74 68 20 61 6c 6c 
+
+prev_cipher: 9e ae 5d a8 a3 c6 49 fe 5a 8e e3 d1 74 2f cb 9f 
+encrypted block before shuffle: c3 88 89 ab fa 8c 2b c7 09 11 1b a3 68 0f cc c2 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: be fa 4a eb 83 32 34 ab 3c db 20 fb d9 99 db c6 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: 9e ae 5d a8 a3 c6 49 fe 5a 8e e3 d1 74 2f cb 9f 
+plaintext before xor with CBC: be c6 34 db 83 ab 20 99 32 fa d9 db 3c 4a eb fb 
+after plaintext xor CBC: 20 68 69 73 20 6d 69 67 68 74 3a 0a 48 65 20 64 
+
+prev_cipher: c3 88 89 ab fa 8c 2b c7 09 11 1b a3 68 0f cc c2 
+encrypted block before shuffle: 12 e1 5f 13 6a 0c 9c 2a c9 70 81 21 4b f9 0c 85 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: ff c3 ec 63 83 62 93 b6 6c 0a aa a9 6a bf 0b b1 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: c3 88 89 ab fa 8c 2b c7 09 11 1b a3 68 0f cc c2 
+plaintext before xor with CBC: aa ec a9 c3 93 ff 0b b1 6c 63 62 83 0a 6a bf b6 
+after plaintext xor CBC: 69 64 20 68 69 73 20 76 65 72 79 20 62 65 73 74 
+
+prev_cipher: 12 e1 5f 13 6a 0c 9c 2a c9 70 81 21 4b f9 0c 85 
+encrypted block before shuffle: 6e 49 91 49 b0 7b f8 3b 31 6e 76 7b fa c6 62 2b 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: 33 9b 32 e9 e9 65 07 f7 24 44 6d c3 6b 30 95 4f 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 12 e1 5f 13 6a 0c 9c 2a c9 70 81 21 4b f9 0c 85 
+plaintext before xor with CBC: 32 95 30 33 07 6d f7 4f c3 24 e9 44 6b 9b 65 e9 
+after plaintext xor CBC: 20 74 6f 20 6d 61 6b 65 0a 54 68 65 20 62 69 6c 
+
+prev_cipher: 6e 49 91 49 b0 7b f8 3b 31 6e 76 7b fa c6 62 2b 
+encrypted block before shuffle: eb d9 cd ca 61 28 ed f4 8e 4a 9e 73 3b b8 b3 92 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 26 5b 5e 1a a8 e6 02 08 0b 90 95 9b 3a 1e 54 06 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 6e 49 91 49 b0 7b f8 3b 31 6e 76 7b fa c6 62 2b 
+plaintext before xor with CBC: 02 26 e6 3a 90 08 95 54 5e 1a 1e 5b 9b a8 06 0b 
+after plaintext xor CBC: 6c 6f 77 73 20 73 6d 6f 6f 74 68 20 61 6e 64 20 
+
+prev_cipher: eb d9 cd ca 61 28 ed f4 8e 4a 9e 73 3b b8 b3 92 
+encrypted block before shuffle: b4 e9 98 0b f5 be 72 d7 5e 0e 5f 44 78 a6 0e d3 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: 89 db 1b 0b cc c0 ad fb ab 84 a4 5c 09 f0 d9 17 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: eb d9 cd ca 61 28 ed f4 8e 4a 9e 73 3b b8 b3 92 
+plaintext before xor with CBC: 89 ab a4 ad 09 5c c0 d9 84 0b f0 17 1b cc db fb 
+after plaintext xor CBC: 62 72 69 67 68 74 2d 2d 0a 41 6e 64 20 74 68 69 
+
+prev_cipher: b4 e9 98 0b f5 be 72 d7 5e 0e 5f 44 78 a6 0e d3 
+encrypted block before shuffle: 0b c4 9c 12 b4 33 7c c2 e3 ff 2c 27 8b 79 0e ce 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: a6 26 ef 22 1d 1d b3 9e 86 c5 c7 6f 6a 7f c9 3a 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: b4 e9 98 0b f5 be 72 d7 5e 0e 5f 44 78 a6 0e d3 
+plaintext before xor with CBC: c7 c9 ef 6a 86 9e 1d b3 3a 22 7f 26 1d c5 6f a6 
+after plaintext xor CBC: 73 20 77 61 73 20 6f 64 64 2c 20 62 65 63 61 75 
+
+prev_cipher: 0b c4 9c 12 b4 33 7c c2 e3 ff 2c 27 8b 79 0e ce 
+encrypted block before shuffle: 66 f1 a3 6b ec 62 ac f4 76 b3 7a 96 c1 11 cf 6b 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 7b 63 c0 0b f5 bc 13 78 a3 59 a1 ee 90 a7 78 4f 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 0b c4 9c 12 b4 33 7c c2 e3 ff 2c 27 8b 79 0e ce 
+plaintext before xor with CBC: 78 a1 bc 7b c0 13 0b a3 90 f5 78 4f ee 59 63 a7 
+after plaintext xor CBC: 73 65 20 69 74 20 77 61 73 0a 54 68 65 20 6d 69 
+
+prev_cipher: 66 f1 a3 6b ec 62 ac f4 76 b3 7a 96 c1 11 cf 6b 
+encrypted block before shuffle: 56 ed 9f 9d 46 80 65 14 3d 99 1f 1e 54 64 a5 4b 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: db af cc 0d cf 0e ca a8 78 03 d4 b6 95 02 02 1f 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 66 f1 a3 6b ec 62 ac f4 76 b3 7a 96 c1 11 cf 6b 
+plaintext before xor with CBC: 02 95 cf 0e cc 0d ca d4 02 db 1f b6 af 78 a8 03 
+after plaintext xor CBC: 64 64 6c 65 20 6f 66 20 74 68 65 20 6e 69 67 68 
+
+prev_cipher: 56 ed 9f 9d 46 80 65 14 3d 99 1f 1e 54 64 a5 4b 
+encrypted block before shuffle: 89 f2 50 03 c1 4e 5b 1a c5 7e 2c 30 23 46 b5 11 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: 74 00 13 c3 38 70 c4 f6 70 34 97 e8 12 50 22 95 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: 56 ed 9f 9d 46 80 65 14 3d 99 1f 1e 54 64 a5 4b 
+plaintext before xor with CBC: 22 c3 95 97 12 e8 00 34 50 f6 70 70 74 13 c4 38 
+after plaintext xor CBC: 74 2e 0a 0a 54 68 65 20 6d 6f 6f 6e 20 77 61 73 
+
+prev_cipher: 89 f2 50 03 c1 4e 5b 1a c5 7e 2c 30 23 46 b5 11 
+encrypted block before shuffle: c4 fe 14 9a 8c b7 0e 74 58 d5 e3 a7 ac f3 5e 8c 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: a9 5c 27 6a e5 59 81 68 7d 2f 48 af 0d 35 d9 38 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 89 f2 50 03 c1 4e 5b 1a c5 7e 2c 30 23 46 b5 11 
+plaintext before xor with CBC: a9 81 38 6a af 27 35 7d e5 0d 59 5c 48 2f d9 68 
+after plaintext xor CBC: 20 73 68 69 6e 69 6e 67 20 73 75 6c 6b 69 6c 79 
+
+prev_cipher: c4 fe 14 9a 8c b7 0e 74 58 d5 e3 a7 ac f3 5e 8c 
+encrypted block before shuffle: 22 a6 cb 1d 0a b4 9b 37 43 65 0b 6e fe 83 be e3 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: ff f4 e8 3d d3 2a e4 7b d6 cf 90 56 ef f5 c9 07 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: c4 fe 14 9a 8c b7 0e 74 58 d5 e3 a7 ac f3 5e 8c 
+plaintext before xor with CBC: e8 f4 56 ff ef d6 7b 07 3d f5 90 cf c9 d3 2a e4 
+after plaintext xor CBC: 2c 0a 42 65 63 61 75 73 65 20 73 68 65 20 74 68 
+
+prev_cipher: 22 a6 cb 1d 0a b4 9b 37 43 65 0b 6e fe 83 be e3 
+encrypted block before shuffle: e1 f4 08 83 cb 36 ff 31 70 d3 1f 4e de 58 22 fb 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: ac f6 1b d3 82 78 90 4d 75 89 94 26 5f 7e 45 ef 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: 22 a6 cb 1d 0a b4 9b 37 43 65 0b 6e fe 83 be e3 
+plaintext before xor with CBC: 4d d3 ac 75 7e 94 ef 5f 26 45 78 1b 90 89 f6 82 
+after plaintext xor CBC: 6f 75 67 68 74 20 74 68 65 20 73 75 6e 0a 48 61 
+
+prev_cipher: e1 f4 08 83 cb 36 ff 31 70 d3 1f 4e de 58 22 fb 
+encrypted block before shuffle: 0a a4 35 05 06 4f 62 f2 1a e6 2b df 9b 47 df 90 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: b7 16 36 85 bf b1 3d 5e 6f ec 50 47 6a 91 88 d4 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: e1 f4 08 83 cb 36 ff 31 70 d3 1f 4e de 58 22 fb 
+plaintext before xor with CBC: 85 d4 6f ec bf 16 91 5e 50 b1 6a 3d b7 36 47 88 
+after plaintext xor CBC: 64 20 67 6f 74 20 6e 6f 20 62 75 73 69 6e 65 73 
+
+prev_cipher: 0a a4 35 05 06 4f 62 f2 1a e6 2b df 9b 47 df 90 
+encrypted block before shuffle: 80 fc 7d 46 43 e0 0e 0e 61 bd 12 85 0f 78 6a 52 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: ad 9e 8e f6 6a 4e 41 d2 84 07 79 4d 6e fe 2d 26 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 0a a4 35 05 06 4f 62 f2 1a e6 2b df 9b 47 df 90 
+plaintext before xor with CBC: 79 84 41 6a 26 2d 07 d2 6e 8e 4e ad fe 4d 9e f6 
+after plaintext xor CBC: 73 20 74 6f 20 62 65 20 74 68 65 72 65 0a 41 66 
+
+prev_cipher: 80 fc 7d 46 43 e0 0e 0e 61 bd 12 85 0f 78 6a 52 
+encrypted block before shuffle: e5 ce 7a ce f2 fb 4d 67 4c 73 6c 0c b7 39 bf a1 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 78 dc 99 2e 6b a5 72 6b 19 19 37 f4 66 0f 88 05 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 80 fc 7d 46 43 e0 0e 0e 61 bd 12 85 0f 78 6a 52 
+plaintext before xor with CBC: f4 99 0f 66 37 88 6b 2e 05 dc 6b a5 78 19 19 72 
+after plaintext xor CBC: 74 65 72 20 74 68 65 20 64 61 79 20 77 61 73 20 
+
+prev_cipher: e5 ce 7a ce f2 fb 4d 67 4c 73 6c 0c b7 39 bf a1 
+encrypted block before shuffle: d7 bd 96 04 a2 8f 28 39 16 bb 04 f7 97 ad 60 43 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: da 7f 45 14 ab 81 07 05 d3 a1 4f df d6 4b 47 97 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: e5 ce 7a ce f2 fb 4d 67 4c 73 6c 0c b7 39 bf a1 
+plaintext before xor with CBC: 81 a1 14 ab df d6 47 45 05 07 4b 7f 97 4f da d3 
+after plaintext xor CBC: 64 6f 6e 65 2d 2d 0a 22 49 74 27 73 20 76 65 72 
+
+prev_cipher: d7 bd 96 04 a2 8f 28 39 16 bb 04 f7 97 ad 60 43 
+encrypted block before shuffle: d3 e9 42 02 bf ce fb 86 cf bb 33 3b dd c0 89 99 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: ae 9b 81 42 c6 70 e4 ea fa 71 08 63 6c 56 9e 9d 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: d7 bd 96 04 a2 8f 28 39 16 bb 04 f7 97 ad 60 43 
+plaintext before xor with CBC: ae 9d e4 71 c6 ea 08 56 70 9b 6c 9e fa 81 42 63 
+after plaintext xor CBC: 79 20 72 75 64 65 20 6f 66 20 68 69 6d 2c 22 20 
+
+prev_cipher: d3 e9 42 02 bf ce fb 86 cf bb 33 3b dd c0 89 99 
+encrypted block before shuffle: 42 00 32 c1 86 7f c3 6a 46 c8 8b af c1 ac 95 d6 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: af 22 81 b1 6f 11 cc f6 e3 b2 a0 27 e0 ea 92 e2 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: d3 e9 42 02 bf ce fb 86 cf bb 33 3b dd c0 89 99 
+plaintext before xor with CBC: a0 81 27 22 cc af 92 e2 e3 b1 11 6f b2 e0 ea f6 
+after plaintext xor CBC: 73 68 65 20 73 61 69 64 2c 0a 22 54 6f 20 63 6f 
+
+prev_cipher: 42 00 32 c1 86 7f c3 6a 46 c8 8b af c1 ac 95 d6 
+encrypted block before shuffle: fd 0a 8c 42 ea e3 17 2f b2 e9 00 8e 70 e4 92 7d 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: a0 d8 2f e2 b3 fd e8 e3 a7 c3 1b 36 e1 12 65 19 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 42 00 32 c1 86 7f c3 6a 46 c8 8b af c1 ac 95 d6 
+plaintext before xor with CBC: 2f 65 12 a0 e8 1b e3 19 36 a7 e2 c3 e1 d8 fd b3 
+after plaintext xor CBC: 6d 65 20 61 6e 64 20 73 70 6f 69 6c 20 74 68 65 
+
+prev_cipher: fd 0a 8c 42 ea e3 17 2f b2 e9 00 8e 70 e4 92 7d 
+encrypted block before shuffle: a1 2c 75 51 48 37 32 3d d8 11 16 eb 2d c3 c2 67 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 6c ae e6 81 81 f9 dd c1 5d cb 1d 03 2c 65 25 f3 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: fd 0a 8c 42 ea e3 17 2f b2 e9 00 8e 70 e4 92 7d 
+plaintext before xor with CBC: dd 6c f9 2c cb c1 1d 25 e6 81 65 ae 03 81 f3 5d 
+after plaintext xor CBC: 20 66 75 6e 21 22 0a 0a 54 68 65 20 73 65 61 20 
+
+prev_cipher: a1 2c 75 51 48 37 32 3d d8 11 16 eb 2d c3 c2 67 
+encrypted block before shuffle: eb d0 cb 62 8e 38 ae 28 b8 33 fd 4a 4e 60 ca 58 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: d6 e2 48 62 b7 46 71 04 4d b9 06 52 3f 36 1d 9c 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: a1 2c 75 51 48 37 32 3d d8 11 16 eb 2d c3 c2 67 
+plaintext before xor with CBC: d6 4d 06 71 3f 52 46 1d b9 62 36 9c 48 b7 e2 04 
+after plaintext xor CBC: 77 61 73 20 77 65 74 20 61 73 20 77 65 74 20 63 
+
+prev_cipher: eb d0 cb 62 8e 38 ae 28 b8 33 fd 4a 4e 60 ca 58 
+encrypted block before shuffle: 9b cd d4 57 c7 e5 cb 06 cb 29 6f e3 e7 93 62 46 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: 36 2f a7 67 6e cb 04 5a ae 13 84 ab 06 95 a5 b2 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: eb d0 cb 62 8e 38 ae 28 b8 33 fd 4a 4e 60 ca 58 
+plaintext before xor with CBC: 84 a5 a7 06 ae 5a cb 04 b2 67 95 2f 6e 13 ab 36 
+after plaintext xor CBC: 6f 75 6c 64 20 62 65 2c 0a 54 68 65 20 73 61 6e 
+
+prev_cipher: 9b cd d4 57 c7 e5 cb 06 cb 29 6f e3 e7 93 62 46 
+encrypted block before shuffle: 3d d0 c1 ce 42 2a 28 73 f3 0a 65 fe fe 94 a1 e7 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 20 42 a2 ae 5b f4 97 ff 26 e0 be 86 af 22 16 c3 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 9b cd d4 57 c7 e5 cb 06 cb 29 6f e3 e7 93 62 46 
+plaintext before xor with CBC: ff be f4 20 a2 97 ae 26 af 5b 16 c3 86 e0 42 22 
+after plaintext xor CBC: 64 73 20 77 65 72 65 20 64 72 79 20 61 73 20 64 
+
+prev_cipher: 3d d0 c1 ce 42 2a 28 73 f3 0a 65 fe fe 94 a1 e7 
+encrypted block before shuffle: e8 d8 48 d5 66 4a f2 73 f1 12 98 3a 68 f6 e8 44 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 65 9a 1b 45 ef c4 5d cf b4 88 53 92 a9 90 4f 10 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 3d d0 c1 ce 42 2a 28 73 f3 0a 65 fe fe 94 a1 e7 
+plaintext before xor with CBC: 4f a9 ef c4 1b 45 5d 53 90 65 10 92 9a b4 cf 88 
+after plaintext xor CBC: 72 79 2e 0a 59 6f 75 20 63 6f 75 6c 64 20 6e 6f 
+
+prev_cipher: e8 d8 48 d5 66 4a f2 73 f1 12 98 3a 68 f6 e8 44 
+encrypted block before shuffle: f1 61 99 38 df 71 57 92 42 19 0b b2 32 84 0b bf 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: 0c 93 da f8 26 4f c8 7e f7 53 b0 6a 03 92 9c 3b 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: e8 d8 48 d5 66 4a f2 73 f1 12 98 3a 68 f6 e8 44 
+plaintext before xor with CBC: 9c f8 3b b0 03 6a 93 53 92 7e f7 4f 0c da c8 26 
+after plaintext xor CBC: 74 20 73 65 65 20 61 20 63 6c 6f 75 64 2c 20 62 
+
+prev_cipher: f1 61 99 38 df 71 57 92 42 19 0b b2 32 84 0b bf 
+encrypted block before shuffle: f9 7c 27 bd 44 86 8d 83 f9 0b f6 a4 98 9b e8 4c 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 94 de 14 4d 2d 68 02 9f dc f1 5d ac 39 5d 6f f8 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: f1 61 99 38 df 71 57 92 42 19 0b b2 32 84 0b bf 
+plaintext before xor with CBC: 94 02 f8 4d ac 14 5d dc 2d 39 68 de 5d f1 6f 9f 
+after plaintext xor CBC: 65 63 61 75 73 65 0a 4e 6f 20 63 6c 6f 75 64 20 
+
+prev_cipher: f9 7c 27 bd 44 86 8d 83 f9 0b f6 a4 98 9b e8 4c 
+encrypted block before shuffle: 40 4f ad b1 3b 4c 39 e1 7d 7d 4d 6c 3c 18 84 13 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 9d 1d 8e 91 e2 d2 46 ad e8 d7 d6 54 2d 6e f3 f7 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: f9 7c 27 bd 44 86 8d 83 f9 0b f6 a4 98 9b e8 4c 
+plaintext before xor with CBC: 8e 1d 54 9d 2d e8 ad f7 91 6e d6 d7 f3 e2 d2 46 
+after plaintext xor CBC: 77 61 73 20 69 6e 20 74 68 65 20 73 6b 79 3a 0a 
+
+prev_cipher: 40 4f ad b1 3b 4c 39 e1 7d 7d 4d 6c 3c 18 84 13 
+encrypted block before shuffle: c0 e0 0d 70 36 66 36 72 d6 62 b5 35 13 74 6d 49 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: 8d e2 1e 20 7f 28 59 0e d3 38 3e 5d 92 52 0a 5d 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: 40 4f ad b1 3b 4c 39 e1 7d 7d 4d 6c 3c 18 84 13 
+plaintext before xor with CBC: 0e 20 8d d3 52 3e 5d 92 5d 0a 28 1e 59 38 e2 7f 
+after plaintext xor CBC: 4e 6f 20 62 69 72 64 73 20 77 65 72 65 20 66 6c 
+
+prev_cipher: c0 e0 0d 70 36 66 36 72 d6 62 b5 35 13 74 6d 49 
+encrypted block before shuffle: cf bb 13 39 af bc 0f bb 16 1d df d8 2c 96 33 cd 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: 72 09 10 b9 16 42 50 17 63 17 a4 40 dd 40 64 89 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: c0 e0 0d 70 36 66 36 72 d6 62 b5 35 13 74 6d 49 
+plaintext before xor with CBC: b9 89 63 17 16 09 40 17 a4 42 dd 50 72 10 40 64 
+after plaintext xor CBC: 79 69 6e 67 20 6f 76 65 72 20 68 65 61 64 2d 2d 
+
+prev_cipher: cf bb 13 39 af bc 0f bb 16 1d df d8 2c 96 33 cd 
+encrypted block before shuffle: d5 71 9c 1f 75 14 34 10 0a 95 ae 31 12 c4 9e a9 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: f8 13 6f af 5c ba 7b cc ef 2f c5 f9 73 42 d9 dd 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: cf bb 13 39 af bc 0f bb 16 1d df d8 2c 96 33 cd 
+plaintext before xor with CBC: c5 ef 7b 5c dd d9 2f cc 73 6f ba f8 42 f9 13 af 
+after plaintext xor CBC: 0a 54 68 65 72 65 20 77 65 72 65 20 6e 6f 20 62 
+
+prev_cipher: d5 71 9c 1f 75 14 34 10 0a 95 ae 31 12 c4 9e a9 
+encrypted block before shuffle: 85 eb e0 d0 c2 41 fe db 9f a4 0e 44 bd ce 57 c8 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 18 f9 03 30 5b 1f c1 d7 ca ce 55 bc 6c f8 60 6c 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: d5 71 9c 1f 75 14 34 10 0a 95 ae 31 12 c4 9e a9 
+plaintext before xor with CBC: bc 03 f8 6c 55 60 5b 30 6c f9 d7 1f 18 ce ca c1 
+after plaintext xor CBC: 69 72 64 73 20 74 6f 20 66 6c 79 2e 0a 0a 54 68 
+
+prev_cipher: 85 eb e0 d0 c2 41 fe db 9f a4 0e 44 bd ce 57 c8 
+encrypted block before shuffle: 32 e2 7b a7 b8 ee ea 83 68 d1 f1 86 72 86 ac 49 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: 3f 20 a8 b7 b1 e0 c5 bf ad cb ba ae 33 60 8b 9d 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: 85 eb e0 d0 c2 41 fe db 9f a4 0e 44 bd ce 57 c8 
+plaintext before xor with CBC: e0 cb b7 b1 ae 33 8b a8 bf c5 60 20 9d ba 3f ad 
+after plaintext xor CBC: 65 20 57 61 6c 72 75 73 20 61 6e 64 20 74 68 65 
+
+prev_cipher: 32 e2 7b a7 b8 ee ea 83 68 d1 f1 86 72 86 ac 49 
+encrypted block before shuffle: 6f d1 37 89 b1 b3 05 e7 22 1f bf 31 4a 61 c6 a5 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: 12 a3 f4 c9 c8 0d 1a 8b 17 d5 84 69 fb f7 d1 a1 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: 32 e2 7b a7 b8 ee ea 83 68 d1 f1 86 72 86 ac 49 
+plaintext before xor with CBC: 12 a1 1a d5 c8 8b 84 f7 0d a3 fb d1 17 f4 c9 69 
+after plaintext xor CBC: 20 43 61 72 70 65 6e 74 65 72 0a 57 65 72 65 20 
+
+prev_cipher: 6f d1 37 89 b1 b3 05 e7 22 1f bf 31 4a 61 c6 a5 
+encrypted block before shuffle: 30 c0 03 03 ab be d7 4d e4 55 33 d3 60 e1 65 f3 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: dd e2 b0 73 42 d0 d8 d1 41 2f 18 5b 41 a7 62 c7 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: 6f d1 37 89 b1 b3 05 e7 22 1f bf 31 4a 61 c6 a5 
+plaintext before xor with CBC: 18 b0 5b e2 d8 dd 62 c7 41 73 d0 42 2f 41 a7 d1 
+after plaintext xor CBC: 77 61 6c 6b 69 6e 67 20 63 6c 6f 73 65 20 61 74 
+
+prev_cipher: 30 c0 03 03 ab be d7 4d e4 55 33 d3 60 e1 65 f3 
+encrypted block before shuffle: 30 56 b3 ea de 0b 30 11 25 d9 9e 34 86 94 5f 7d 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: 6d 84 10 4a 87 15 cf dd 30 f3 85 8c 17 62 a8 19 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 30 c0 03 03 ab be d7 4d e4 55 33 d3 60 e1 65 f3 
+plaintext before xor with CBC: 10 a8 62 6d cf 85 dd 19 8c 30 4a f3 17 84 15 87 
+after plaintext xor CBC: 20 68 61 6e 64 3b 0a 54 68 65 79 20 77 65 70 74 
+
+prev_cipher: 30 56 b3 ea de 0b 30 11 25 d9 9e 34 86 94 5f 7d 
+encrypted block before shuffle: f7 df cf 7d 3a 14 ff d7 8c 61 5a 00 80 50 98 eb 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 3a 5d 5c ad f3 da 10 2b 09 bb 51 e8 81 f6 7f 7f 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 30 56 b3 ea de 0b 30 11 25 d9 9e 34 86 94 5f 7d 
+plaintext before xor with CBC: 10 3a da 81 bb 2b 51 7f 5c ad f6 5d e8 f3 7f 09 
+after plaintext xor CBC: 20 6c 69 6b 65 20 61 6e 79 74 68 69 6e 67 20 74 
+
+prev_cipher: f7 df cf 7d 3a 14 ff d7 8c 61 5a 00 80 50 98 eb 
+encrypted block before shuffle: a5 c4 76 09 08 d2 c7 b3 0a 65 47 06 2e 2c 75 b5 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: 98 f6 f5 09 31 ac 18 9f ff ef bc 1e 5f 7a a2 71 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: f7 df cf 7d 3a 14 ff d7 8c 61 5a 00 80 50 98 eb 
+plaintext before xor with CBC: 98 ff bc 18 5f 1e ac a2 ef 09 7a 71 f5 31 f6 9f 
+after plaintext xor CBC: 6f 20 73 65 65 0a 53 75 63 68 20 71 75 61 6e 74 
+
+prev_cipher: a5 c4 76 09 08 d2 c7 b3 0a 65 47 06 2e 2c 75 b5 
+encrypted block before shuffle: 3a 8a 6c 26 e3 86 1a ae 1e 2c 27 37 8d 20 77 de 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: 97 68 1f 16 4a a8 d5 f2 7b 16 cc 7f 6c 26 b0 2a 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: a5 c4 76 09 08 d2 c7 b3 0a 65 47 06 2e 2c 75 b5 
+plaintext before xor with CBC: cc b0 1f 6c 7b f2 a8 d5 2a 16 26 68 4a 16 7f 97 
+after plaintext xor CBC: 69 74 69 65 73 20 6f 66 20 73 61 6e 64 3a 0a 22 
+
+prev_cipher: 3a 8a 6c 26 e3 86 1a ae 1e 2c 27 37 8d 20 77 de 
+encrypted block before shuffle: 4f 8b e8 09 50 92 50 ff 5b a5 37 d5 38 04 e2 76 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 52 19 8b 69 49 4c ef 73 8e 4f ec ad 69 b2 55 52 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 3a 8a 6c 26 e3 86 1a ae 1e 2c 27 37 8d 20 77 de 
+plaintext before xor with CBC: 73 ec 4c 52 8b ef 69 8e 69 49 55 52 ad 4f 19 b2 
+after plaintext xor CBC: 49 66 20 74 68 69 73 20 77 65 72 65 20 6f 6e 6c 
+
+prev_cipher: 4f 8b e8 09 50 92 50 ff 5b a5 37 d5 38 04 e2 76 
+encrypted block before shuffle: 08 1b 66 63 02 eb 8d 72 38 ce 51 0a 6a 59 91 02 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 85 59 35 f3 8b 65 22 ce 7d 54 9a a2 ab 3f 36 56 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 4f 8b e8 09 50 92 50 ff 5b a5 37 d5 38 04 e2 76 
+plaintext before xor with CBC: 36 ab 8b 65 35 f3 22 9a 3f 85 56 a2 59 7d ce 54 
+after plaintext xor CBC: 79 20 63 6c 65 61 72 65 64 20 61 77 61 79 2c 22 
+
+prev_cipher: 08 1b 66 63 02 eb 8d 72 38 ce 51 0a 6a 59 91 02 
+encrypted block before shuffle: b5 0c 73 8f db 14 7a 46 c8 59 bd 13 4a 47 95 8a 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: 48 fe 30 4f 22 2a e5 aa 7d 13 06 cb 7b 51 02 0e 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: 08 1b 66 63 02 eb 8d 72 38 ce 51 0a 6a 59 91 02 
+plaintext before xor with CBC: 02 4f 0e 06 7b cb fe 13 51 aa 7d 2a 48 30 e5 22 
+after plaintext xor CBC: 0a 54 68 65 79 20 73 61 69 64 2c 20 22 69 74 20 
+
+prev_cipher: b5 0c 73 8f db 14 7a 46 c8 59 bd 13 4a 47 95 8a 
+encrypted block before shuffle: 8f d0 07 33 81 21 cc b4 06 d9 8f 97 9f de 33 92 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: e2 72 34 c3 e8 cf 43 a8 23 23 24 9f 3e 18 b4 26 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: b5 0c 73 8f db 14 7a 46 c8 59 bd 13 4a 47 95 8a 
+plaintext before xor with CBC: e2 43 26 c3 9f 34 18 23 e8 3e cf 72 24 23 b4 a8 
+after plaintext xor CBC: 57 4f 55 4c 44 20 62 65 20 67 72 61 6e 64 21 22 
+
+prev_cipher: 8f d0 07 33 81 21 cc b4 06 d9 8f 97 9f de 33 92 
+encrypted block before shuffle: a7 88 a6 50 66 c4 89 f3 94 1d 7a 1d f6 ca 85 35 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 7a da 85 70 bf 5a f6 bf 01 b7 e1 25 e7 bc f2 d1 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: 8f d0 07 33 81 21 cc b4 06 d9 8f 97 9f de 33 92 
+plaintext before xor with CBC: 85 da 25 7a e7 01 bf d1 70 bc e1 b7 f2 bf 5a f6 
+after plaintext xor CBC: 0a 0a 22 49 66 20 73 65 76 65 6e 20 6d 61 69 64 
+
+prev_cipher: a7 88 a6 50 66 c4 89 f3 94 1d 7a 1d f6 ca 85 35 
+encrypted block before shuffle: 9c e8 60 f8 0c 51 b9 a8 3c fd 27 99 01 34 0c bd 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: d1 ea 73 a8 45 1f d6 d4 39 a7 ac f1 80 12 6b a9 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: a7 88 a6 50 66 c4 89 f3 94 1d 7a 1d f6 ca 85 35 
+plaintext before xor with CBC: d4 a8 d1 39 12 ac a9 80 f1 6b 1f 73 d6 a7 ea 45 
+after plaintext xor CBC: 73 20 77 69 74 68 20 73 65 76 65 6e 20 6d 6f 70 
+
+prev_cipher: 9c e8 60 f8 0c 51 b9 a8 3c fd 27 99 01 34 0c bd 
+encrypted block before shuffle: d3 93 45 6f d0 77 a0 24 46 85 2e b4 f6 1b 82 a6 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: 6e 21 46 ef 69 89 ff 88 33 8f 55 2c 07 cd d5 e2 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 9c e8 60 f8 0c 51 b9 a8 3c fd 27 99 01 34 0c bd 
+plaintext before xor with CBC: ef e2 33 8f 69 21 cd 88 55 89 07 ff 6e 46 2c d5 
+after plaintext xor CBC: 73 0a 53 77 65 70 74 20 69 74 20 66 6f 72 20 68 
+
+prev_cipher: d3 93 45 6f d0 77 a0 24 46 85 2e b4 f6 1b 82 a6 
+encrypted block before shuffle: 93 c0 04 6f 66 ac 6c 9d 1a 63 d9 bc 46 34 10 c5 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: be a2 f7 df 4f 02 23 41 ff d9 b2 74 27 b2 57 b1 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: d3 93 45 6f d0 77 a0 24 46 85 2e b4 f6 1b 82 a6 
+plaintext before xor with CBC: b2 ff 23 4f b1 57 d9 41 27 f7 02 be b2 74 a2 df 
+after plaintext xor CBC: 61 6c 66 20 61 20 79 65 61 72 2c 0a 44 6f 20 79 
+
+prev_cipher: 93 c0 04 6f 66 ac 6c 9d 1a 63 d9 bc 46 34 10 c5 
+encrypted block before shuffle: fb 14 56 12 85 c0 9f f9 2d 2a 48 04 cd 12 eb cd 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 66 06 b5 f2 1c 9e a0 f5 78 40 13 fc 1c 24 dc 69 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 93 c0 04 6f 66 ac 6c 9d 1a 63 d9 bc 46 34 10 c5 
+plaintext before xor with CBC: fc b5 24 1c 13 dc 1c f2 69 06 f5 9e 66 40 78 a0 
+after plaintext xor CBC: 6f 75 20 73 75 70 70 6f 73 65 2c 22 20 74 68 65 
+
+prev_cipher: fb 14 56 12 85 c0 9f f9 2d 2a 48 04 cd 12 eb cd 
+encrypted block before shuffle: c4 a2 0a 27 77 d5 64 62 5c 59 53 df f4 c7 cb 35 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: c9 60 d9 37 7e db 4b 5e 99 43 18 f7 b5 21 ec e1 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: fb 14 56 12 85 c0 9f f9 2d 2a 48 04 cd 12 eb cd 
+plaintext before xor with CBC: db 43 37 7e f7 b5 ec d9 5e 4b 21 60 e1 18 c9 99 
+after plaintext xor CBC: 20 57 61 6c 72 75 73 20 73 61 69 64 2c 0a 22 54 
+
+prev_cipher: c4 a2 0a 27 77 d5 64 62 5c 59 53 df f4 c7 cb 35 
+encrypted block before shuffle: d1 48 60 ab 7a c2 61 d1 ad cd 3a 0a 8d 8d bd c7 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: ac 3a a3 eb 03 7c 7e bd 98 07 01 52 3c 1b aa c3 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: c4 a2 0a 27 77 d5 64 62 5c 59 53 df f4 c7 cb 35 
+plaintext before xor with CBC: ac c3 7e 07 03 bd 01 1b 7c 3a 3c aa 98 a3 eb 52 
+after plaintext xor CBC: 68 61 74 20 74 68 65 79 20 63 6f 75 6c 64 20 67 
+
+prev_cipher: d1 48 60 ab 7a c2 61 d1 ad cd 3a 0a 8d 8d bd c7 
+encrypted block before shuffle: 0f e0 8f dc dc 26 01 12 6d d5 9f c8 a6 d9 05 89 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: e2 c2 3c ac 35 48 0e 8e c8 af b4 40 87 9f 02 bd 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: d1 48 60 ab 7a c2 61 d1 ad cd 3a 0a 8d 8d bd c7 
+plaintext before xor with CBC: b4 3c 40 c2 0e e2 02 bd c8 ac 48 35 af 87 9f 8e 
+after plaintext xor CBC: 65 74 20 69 74 20 63 6c 65 61 72 3f 22 0a 22 49 
+
+prev_cipher: 0f e0 8f dc dc 26 01 12 6d d5 9f c8 a6 d9 05 89 
+encrypted block before shuffle: f4 6a 8c 1d b4 72 41 ed ec c2 49 a1 44 16 73 1f 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: a9 b8 2f bd ed 6c be 21 f9 e8 52 19 d5 e0 84 7b 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 0f e0 8f dc dc 26 01 12 6d d5 9f c8 a6 d9 05 89 
+plaintext before xor with CBC: 2f 84 e0 a9 be 52 21 7b 19 f9 bd e8 d5 b8 6c ed 
+after plaintext xor CBC: 20 64 6f 75 62 74 20 69 74 2c 22 20 73 61 69 64 
+
+prev_cipher: f4 6a 8c 1d b4 72 41 ed ec c2 49 a1 44 16 73 1f 
+encrypted block before shuffle: d3 57 0f 77 ad 2a 3b cd 90 4e 2b c9 79 81 78 cb 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 1e d5 9c a7 64 e4 d4 31 15 94 20 21 78 27 9f 5f 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: f4 6a 8c 1d b4 72 41 ed ec c2 49 a1 44 16 73 1f 
+plaintext before xor with CBC: d4 1e e4 78 94 31 20 9f 9c a7 27 d5 21 64 5f 15 
+after plaintext xor CBC: 20 74 68 65 20 43 61 72 70 65 6e 74 65 72 2c 0a 
+
+prev_cipher: d3 57 0f 77 ad 2a 3b cd 90 4e 2b c9 79 81 78 cb 
+encrypted block before shuffle: af 3e 93 2f cc 20 88 82 cc 3a 90 5a af 5d 7e 6f 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: 92 0c 10 2f f5 5e 57 ae 39 b0 6b 42 de 0b a9 ab 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: d3 57 0f 77 ad 2a 3b cd 90 4e 2b c9 79 81 78 cb 
+plaintext before xor with CBC: 92 39 6b 57 de 42 5e a9 b0 2f 0b ab 10 f5 0c ae 
+after plaintext xor CBC: 41 6e 64 20 73 68 65 64 20 61 20 62 69 74 74 65 
+
+prev_cipher: af 3e 93 2f cc 20 88 82 cc 3a 90 5a af 5d 7e 6f 
+encrypted block before shuffle: b6 98 94 28 49 88 47 0e c8 1e 36 45 ab d9 d9 32 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: 1b 7a e7 18 e0 a6 88 52 ad 24 dd 0d 4a df 1e c6 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: af 3e 93 2f cc 20 88 82 cc 3a 90 5a af 5d 7e 6f 
+plaintext before xor with CBC: dd 1e e7 4a ad 52 a6 88 c6 18 df 7a e0 24 0d 1b 
+after plaintext xor CBC: 72 20 74 65 61 72 2e 0a 0a 22 4f 20 4f 79 73 74 
+
+prev_cipher: b6 98 94 28 49 88 47 0e c8 1e 36 45 ab d9 d9 32 
+encrypted block before shuffle: 19 3c 0a 48 27 39 54 5f b6 13 31 b7 fc e5 e0 0f 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 04 ae 69 28 3e e7 eb d3 63 f9 ea cf ad 53 57 2b 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: b6 98 94 28 49 88 47 0e c8 1e 36 45 ab d9 d9 32 
+plaintext before xor with CBC: d3 ea e7 04 69 eb 28 63 ad 3e 57 2b cf f9 ae 53 
+after plaintext xor CBC: 65 72 73 2c 20 63 6f 6d 65 20 61 6e 64 20 77 61 
+
+prev_cipher: 19 3c 0a 48 27 39 54 5f b6 13 31 b7 fc e5 e0 0f 
+encrypted block before shuffle: ed b4 1d dd a3 b1 93 34 f4 f0 b4 3d 96 a5 d2 44 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 60 f6 4e 4d 2a 3f 3c 88 b1 6a 7f 95 57 c3 75 10 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 19 3c 0a 48 27 39 54 5f b6 13 31 b7 fc e5 e0 0f 
+plaintext before xor with CBC: 75 57 2a 3f 4e 4d 3c 7f c3 60 10 95 f6 b1 88 6a 
+after plaintext xor CBC: 6c 6b 20 77 69 74 68 20 75 73 21 22 0a 54 68 65 
+
+prev_cipher: ed b4 1d dd a3 b1 93 34 f4 f0 b4 3d 96 a5 d2 44 
+encrypted block before shuffle: 09 12 83 23 d8 23 3e 75 65 5e 0a 1c e0 86 5a f8 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: f4 e0 c0 e3 21 1d a1 99 d0 14 b1 c4 d1 90 cd 7c 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: ed b4 1d dd a3 b1 93 34 f4 f0 b4 3d 96 a5 d2 44 
+plaintext before xor with CBC: cd e3 7c b1 d1 c4 e0 14 90 99 d0 1d f4 c0 a1 21 
+after plaintext xor CBC: 20 57 61 6c 72 75 73 20 64 69 64 20 62 65 73 65 
+
+prev_cipher: 09 12 83 23 d8 23 3e 75 65 5e 0a 1c e0 86 5a f8 
+encrypted block before shuffle: 01 df 32 fd 7c 81 fe 90 70 1d 38 da 93 b9 b3 5f 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 6c 7d 01 0d 15 6f 71 8c 55 e7 93 d2 32 7f 34 eb 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 09 12 83 23 d8 23 3e 75 65 5e 0a 1c e0 86 5a f8 
+plaintext before xor with CBC: 6c 71 eb 0d d2 01 7f 55 15 32 6f 7d 93 e7 34 8c 
+after plaintext xor CBC: 65 63 68 2e 0a 22 41 20 70 6c 65 61 73 61 6e 74 
+
+prev_cipher: 01 df 32 fd 7c 81 fe 90 70 1d 38 da 93 b9 b3 5f 
+encrypted block before shuffle: 4c fa 02 70 13 4c 4e 92 38 15 cf 6b 06 1b 85 15 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 91 a8 21 50 ca d2 31 de ad bf 54 53 17 6d f2 f1 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: 01 df 32 fd 7c 81 fe 90 70 1d 38 da 93 b9 b3 5f 
+plaintext before xor with CBC: 21 a8 53 91 17 ad de f1 50 6d 54 bf f2 ca d2 31 
+after plaintext xor CBC: 20 77 61 6c 6b 2c 20 61 20 70 6c 65 61 73 61 6e 
+
+prev_cipher: 4c fa 02 70 13 4c 4e 92 38 15 cf 6b 06 1b 85 15 
+encrypted block before shuffle: 3b f3 16 8a 34 ee 0e 44 14 61 ac 11 19 59 1e 76 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: 76 f1 05 da 7d a0 61 38 11 3b 27 79 98 7f 79 62 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: 4c fa 02 70 13 4c 4e 92 38 15 cf 6b 06 1b 85 15 
+plaintext before xor with CBC: 38 da 76 11 7f 27 62 98 79 79 a0 05 61 3b f1 7d 
+after plaintext xor CBC: 74 20 74 61 6c 6b 2c 0a 41 6c 6f 6e 67 20 74 68 
+
+prev_cipher: 3b f3 16 8a 34 ee 0e 44 14 61 ac 11 19 59 1e 76 
+encrypted block before shuffle: cc 32 60 de e4 fa 2d c8 01 f2 0d 8c 3c a1 76 97 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: 71 80 63 5e 5d 04 72 64 74 f8 76 14 cd 77 21 d3 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 3b f3 16 8a 34 ee 0e 44 14 61 ac 11 19 59 1e 76 
+plaintext before xor with CBC: 5e d3 74 f8 5d 80 77 64 76 04 cd 72 71 63 14 21 
+after plaintext xor CBC: 65 20 62 72 69 6e 79 20 62 65 61 63 68 3a 0a 57 
+
+prev_cipher: cc 32 60 de e4 fa 2d c8 01 f2 0d 8c 3c a1 76 97 
+encrypted block before shuffle: 81 60 65 4f 96 cc 4c 60 f7 f8 c2 00 40 cd d3 fe 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: ac 02 96 ff bf 62 03 bc 12 42 a9 c8 21 4b 94 8a 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: cc 32 60 de e4 fa 2d c8 01 f2 0d 8c 3c a1 76 97 
+plaintext before xor with CBC: a9 12 03 bf 8a 94 42 bc 21 96 62 ac 4b c8 02 ff 
+after plaintext xor CBC: 65 20 63 61 6e 6e 6f 74 20 64 6f 20 77 69 74 68 
+
+prev_cipher: 81 60 65 4f 96 cc 4c 60 f7 f8 c2 00 40 cd d3 fe 
+encrypted block before shuffle: b2 84 ee e8 a1 38 ed ee f4 d2 a8 59 ec 3c db 32 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 2f 96 0d 08 38 66 d2 e2 a1 b8 f3 a1 3d 0a ec 96 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 81 60 65 4f 96 cc 4c 60 f7 f8 c2 00 40 cd d3 fe 
+plaintext before xor with CBC: a1 0d 0a 3d f3 ec 38 08 96 96 e2 66 2f b8 a1 d2 
+after plaintext xor CBC: 20 6d 6f 72 65 20 74 68 61 6e 20 66 6f 75 72 2c 
+
+prev_cipher: b2 84 ee e8 a1 38 ed ee f4 d2 a8 59 ec 3c db 32 
+encrypted block before shuffle: b2 f3 58 91 c1 b6 9c e8 d7 ca 19 ee 10 6e bc 59 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: bf 31 8b 81 c8 b8 b3 d4 12 d0 52 c6 51 88 9b 8d 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: b2 84 ee e8 a1 38 ed ee f4 d2 a8 59 ec 3c db 32 
+plaintext before xor with CBC: b8 d0 81 c8 c6 51 9b 8b d4 b3 88 31 8d 52 bf 12 
+after plaintext xor CBC: 0a 54 6f 20 67 69 76 65 20 61 20 68 61 6e 64 20 
+
+prev_cipher: b2 f3 58 91 c1 b6 9c e8 d7 ca 19 ee 10 6e bc 59 
+encrypted block before shuffle: bb b2 c8 dc d9 4b 67 b9 4d 3e cf 64 a2 50 ad 98 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: c6 c0 0b 9c a0 f5 78 d5 78 f4 f4 3c 13 c6 ba 9c 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: b2 f3 58 91 c1 b6 9c e8 d7 ca 19 ee 10 6e bc 59 
+plaintext before xor with CBC: c6 9c 78 f4 a0 d5 f4 c6 f5 c0 13 ba 78 0b 9c 3c 
+after plaintext xor CBC: 74 6f 20 65 61 63 68 2e 22 0a 0a 54 68 65 20 65 
+
+prev_cipher: bb b2 c8 dc d9 4b 67 b9 4d 3e cf 64 a2 50 ad 98 
+encrypted block before shuffle: 86 8d 65 3a ff c4 a2 6b 9b f8 fc 25 1d 84 2f f4 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: 6b af d6 4a 16 aa ad f7 3e 82 d7 ad 3c c2 28 c0 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: bb b2 c8 dc d9 4b 67 b9 4d 3e cf 64 a2 50 ad 98 
+plaintext before xor with CBC: d7 d6 ad af ad 6b 28 c0 3e 4a aa 16 82 3c c2 f7 
+after plaintext xor CBC: 6c 64 65 73 74 20 4f 79 73 74 65 72 20 6c 6f 6f 
+
+prev_cipher: 86 8d 65 3a ff c4 a2 6b 9b f8 fc 25 1d 84 2f f4 
+encrypted block before shuffle: 47 23 4e 72 8d 45 61 4e 80 05 ab 4a ce f7 1f 67 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: 1a f1 ed d2 d4 5b 9e 82 95 2f b0 f2 5f 01 e8 03 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 86 8d 65 3a ff c4 a2 6b 9b f8 fc 25 1d 84 2f f4 
+plaintext before xor with CBC: ed e8 01 1a 9e b0 82 03 f2 95 d2 2f 5f f1 5b d4 
+after plaintext xor CBC: 6b 65 64 20 61 74 20 68 69 6d 2e 0a 42 75 74 20 
+
+prev_cipher: 47 23 4e 72 8d 45 61 4e 80 05 ab 4a ce f7 1f 67 
+encrypted block before shuffle: 8b ac 64 ba 56 f6 c6 99 c2 25 0b 06 16 7f 89 ee 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 46 2e f7 6a 9f 38 29 65 47 ff 00 ee 17 d9 6e 7a 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 47 23 4e 72 8d 45 61 4e 80 05 ab 4a ce f7 1f 67 
+plaintext before xor with CBC: 29 46 38 17 ff 65 00 6e f7 6a d9 2e ee 9f 7a 47 
+after plaintext xor CBC: 6e 65 76 65 72 20 61 20 77 6f 72 64 20 68 65 20 
+
+prev_cipher: 8b ac 64 ba 56 f6 c6 99 c2 25 0b 06 16 7f 89 ee 
+encrypted block before shuffle: c5 c8 f1 05 23 ec 01 b6 38 2d f6 e4 1d 38 26 ae 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: f8 fa 72 05 1a 92 de 9a cd a7 0d fc 6c 6e f1 6a 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: 8b ac 64 ba 56 f6 c6 99 c2 25 0b 06 16 7f 89 ee 
+plaintext before xor with CBC: f8 cd 0d de 6c fc 92 f1 a7 05 6e 6a 72 1a fa 9a 
+after plaintext xor CBC: 73 61 69 64 3a 0a 54 68 65 20 65 6c 64 65 73 74 
+
+prev_cipher: c5 c8 f1 05 23 ec 01 b6 38 2d f6 e4 1d 38 26 ae 
+encrypted block before shuffle: 6b 6d fb 74 d1 5d 59 d5 32 66 0e 4e 97 9e 40 bb 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: c6 8f 88 44 78 73 96 89 57 5c e5 06 76 98 87 4f 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: c5 c8 f1 05 23 ec 01 b6 38 2d f6 e4 1d 38 26 ae 
+plaintext before xor with CBC: e5 87 88 76 57 89 73 96 4f 44 98 8f 78 5c 06 c6 
+after plaintext xor CBC: 20 4f 79 73 74 65 72 20 77 69 6e 6b 65 64 20 68 
+
+prev_cipher: 6b 6d fb 74 d1 5d 59 d5 32 66 0e 4e 97 9e 40 bb 
+encrypted block before shuffle: 0c bd cb 15 11 05 87 8e 0a 1c c5 9c 22 62 dd 4a 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 11 2f a8 75 08 db 38 02 df f6 1e e4 73 d4 6a 6e 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 6b 6d fb 74 d1 5d 59 d5 32 66 0e 4e 97 9e 40 bb 
+plaintext before xor with CBC: 02 1e db 11 a8 38 75 df 73 08 6a 6e e4 f6 2f d4 
+after plaintext xor CBC: 69 73 20 65 79 65 2c 0a 41 6e 64 20 73 68 6f 6f 
+
+prev_cipher: 0c bd cb 15 11 05 87 8e 0a 1c c5 9c 22 62 dd 4a 
+encrypted block before shuffle: e7 08 31 b5 2a f2 40 00 42 b4 20 14 5c 0d c0 e8 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 6a 4a 62 25 a3 7c ef bc 07 2e eb bc 9d 6b 67 bc 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 0c bd cb 15 11 05 87 8e 0a 1c c5 9c 22 62 dd 4a 
+plaintext before xor with CBC: 67 9d a3 7c 62 25 ef eb 6b 6a bc bc 4a 07 bc 2e 
+after plaintext xor CBC: 6b 20 68 69 73 20 68 65 61 76 79 20 68 65 61 64 
+
+prev_cipher: e7 08 31 b5 2a f2 40 00 42 b4 20 14 5c 0d c0 e8 
+encrypted block before shuffle: ce dc 6e e5 70 5e 2c 3f b5 23 43 4b 7e 3a 5d bf 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: 33 2e 2d 25 89 60 b3 d3 00 69 f8 93 4f 2c ca 3b 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: e7 08 31 b5 2a f2 40 00 42 b4 20 14 5c 0d c0 e8 
+plaintext before xor with CBC: ca 25 3b f8 4f 93 2e 69 2c d3 00 60 33 2d b3 89 
+after plaintext xor CBC: 2d 2d 0a 4d 65 61 6e 69 6e 67 20 74 6f 20 73 61 
+
+prev_cipher: ce dc 6e e5 70 5e 2c 3f b5 23 43 4b 7e 3a 5d bf 
+encrypted block before shuffle: da 9d 09 70 fc c2 73 cc 7e a3 f5 58 ec 83 b2 b2 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: b7 3f 3a 80 95 2c fc d0 5b 59 5e 50 4d 45 35 06 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: ce dc 6e e5 70 5e 2c 3f b5 23 43 4b 7e 3a 5d bf 
+plaintext before xor with CBC: b7 fc 06 80 50 3a 45 5b 95 4d 2c 3f 5e 59 35 d0 
+after plaintext xor CBC: 79 20 68 65 20 64 69 64 20 6e 6f 74 20 63 68 6f 
+
+prev_cipher: da 9d 09 70 fc c2 73 cc 7e a3 f5 58 ec 83 b2 b2 
+encrypted block before shuffle: a7 bc 96 3b 2e 44 a8 1f 38 97 18 54 b9 b4 bb 44 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 7a ee b5 1b f7 da d7 53 ad 3d 83 6c a8 c2 cc a0 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: da 9d 09 70 fc c2 73 cc 7e a3 f5 58 ec 83 b2 b2 
+plaintext before xor with CBC: b5 ee 6c 7a a8 ad 53 a0 1b c2 83 3d cc f7 da d7 
+after plaintext xor CBC: 6f 73 65 0a 54 6f 20 6c 65 61 76 65 20 74 68 65 
+
+prev_cipher: a7 bc 96 3b 2e 44 a8 1f 38 97 18 54 b9 b4 bb 44 
+encrypted block before shuffle: a2 fb 69 83 78 32 dc fb 4d e4 aa 32 b3 7c 95 ce 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: ef f9 7a d3 31 7c b3 87 48 be 21 5a 32 5a f2 da 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: a7 bc 96 3b 2e 44 a8 1f 38 97 18 54 b9 b4 bb 44 
+plaintext before xor with CBC: 87 d3 ef 48 5a 21 da 32 5a f2 7c 7a b3 be f9 31 
+after plaintext xor CBC: 20 6f 79 73 74 65 72 2d 62 65 64 2e 0a 0a 42 75 
+
+prev_cipher: a2 fb 69 83 78 32 dc fb 4d e4 aa 32 b3 7c 95 ce 
+encrypted block before shuffle: 2e f2 10 56 b4 6f 0a 2e 7a e6 59 74 35 2a ea 9f 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: 93 40 13 d6 0d 91 55 82 0f ec 22 ec c4 fc bd db 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: a2 fb 69 83 78 32 dc fb 4d e4 aa 32 b3 7c 95 ce 
+plaintext before xor with CBC: d6 db 0f ec 0d 40 fc 82 22 91 c4 55 93 13 ec bd 
+after plaintext xor CBC: 74 20 66 6f 75 72 20 79 6f 75 6e 67 20 6f 79 73 
+
+prev_cipher: 2e f2 10 56 b4 6f 0a 2e 7a e6 59 74 35 2a ea 9f 
+encrypted block before shuffle: 3d f8 7c 03 0c 92 2d 80 72 c5 31 97 69 93 40 e0 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: 10 9a 8f b3 25 3c 62 5c 97 7f 5a 5f 08 15 07 94 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 2e f2 10 56 b4 6f 0a 2e 7a e6 59 74 35 2a ea 9f 
+plaintext before xor with CBC: 5a 97 62 25 94 07 7f 5c 08 8f 3c 10 15 5f 9a b3 
+after plaintext xor CBC: 74 65 72 73 20 68 75 72 72 69 65 64 20 75 70 2c 
+
+prev_cipher: 3d f8 7c 03 0c 92 2d 80 72 c5 31 97 69 93 40 e0 
+encrypted block before shuffle: 9b a5 5a 07 d5 af ab 1d 35 8b 77 cf be 26 c0 b3 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 06 b7 b9 e7 4c f1 94 11 60 e1 2c 37 6f 10 f7 17 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 3d f8 7c 03 0c 92 2d 80 72 c5 31 97 69 93 40 e0 
+plaintext before xor with CBC: 37 b9 10 6f 2c f7 4c e7 17 b7 11 f1 06 e1 60 94 
+after plaintext xor CBC: 0a 41 6c 6c 20 65 61 67 65 72 20 66 6f 72 20 74 
+
+prev_cipher: 9b a5 5a 07 d5 af ab 1d 35 8b 77 cf be 26 c0 b3 
+encrypted block before shuffle: bf 65 ba 6a 7a fd ae 33 56 da 04 8f 8b c5 ed 0f 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: b2 a7 69 7a 73 f3 81 0f 93 c0 4f a7 ca 23 ca db 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: 9b a5 5a 07 d5 af ab 1d 35 8b 77 cf be 26 c0 b3 
+plaintext before xor with CBC: f3 c0 7a 73 a7 ca ca 69 0f 81 23 a7 db 4f b2 93 
+after plaintext xor CBC: 68 65 20 74 72 65 61 74 3a 0a 54 68 65 69 72 20 
+
+prev_cipher: bf 65 ba 6a 7a fd ae 33 56 da 04 8f 8b c5 ed 0f 
+encrypted block before shuffle: a1 cd 73 de 70 9a c4 b1 cc d4 e2 3f 95 c0 fa 0e 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: dc bf b0 9e 09 24 db dd f9 1e d9 67 24 56 ed 0a 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: bf 65 ba 6a 7a fd ae 33 56 da 04 8f 8b c5 ed 0f 
+plaintext before xor with CBC: dc 0a db 1e 09 dd d9 56 24 bf 24 ed f9 b0 9e 67 
+after plaintext xor CBC: 63 6f 61 74 73 20 77 65 72 65 20 62 72 75 73 68 
+
+prev_cipher: a1 cd 73 de 70 9a c4 b1 cc d4 e2 3f 95 c0 fa 0e 
+encrypted block before shuffle: 1f dc 1a 84 b7 ea 0b b2 1b 8c ef d7 84 cf a6 ec 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: f2 fe a9 f4 5e 84 04 2e be f6 c4 5f a5 89 a1 d8 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: a1 cd 73 de 70 9a c4 b1 cc d4 e2 3f 95 c0 fa 0e 
+plaintext before xor with CBC: c4 a9 5f fe 04 f2 a1 d8 be f4 84 5e f6 a5 89 2e 
+after plaintext xor CBC: 65 64 2c 20 74 68 65 69 72 20 66 61 63 65 73 20 
+
+prev_cipher: 1f dc 1a 84 b7 ea 0b b2 1b 8c ef d7 84 cf a6 ec 
+encrypted block before shuffle: b1 3d cb 2a dd cb 2d eb f1 94 95 f7 67 9f 4a dc 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: ec ef 68 8a 84 d5 d2 27 e4 be 8e 4f f6 69 bd b8 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 1f dc 1a 84 b7 ea 0b b2 1b 8c ef d7 84 cf a6 ec 
+plaintext before xor with CBC: 68 bd 69 ec d2 8e 27 b8 4f e4 8a be f6 ef d5 84 
+after plaintext xor CBC: 77 61 73 68 65 64 2c 0a 54 68 65 69 72 20 73 68 
+
+prev_cipher: b1 3d cb 2a dd cb 2d eb f1 94 95 f7 67 9f 4a dc 
+encrypted block before shuffle: 95 10 42 27 38 76 31 52 38 70 54 ee 0b 5f 69 fe 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 58 92 d1 f7 f1 b8 de ae bd aa 5f 06 0a f9 8e 6a 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: b1 3d cb 2a dd cb 2d eb f1 94 95 f7 67 9f 4a dc 
+plaintext before xor with CBC: de 58 b8 0a aa ae 5f 8e d1 f7 f9 92 06 f1 6a bd 
+after plaintext xor CBC: 6f 65 73 20 77 65 72 65 20 63 6c 65 61 6e 20 61 
+
+prev_cipher: 95 10 42 27 38 76 31 52 38 70 54 ee 0b 5f 69 fe 
+encrypted block before shuffle: c6 2f ec 7a 46 3b 96 ba 81 9f 99 0f 2c 43 a8 44 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: fb 1d 6f 7a 7f 45 49 96 74 15 62 17 5d 15 7f 80 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: 95 10 42 27 38 76 31 52 38 70 54 ee 0b 5f 69 fe 
+plaintext before xor with CBC: fb 74 62 49 5d 17 45 7f 15 7a 15 80 6f 7f 1d 96 
+after plaintext xor CBC: 6e 64 20 6e 65 61 74 2d 2d 0a 41 6e 64 20 74 68 
+
+prev_cipher: c6 2f ec 7a 46 3b 96 ba 81 9f 99 0f 2c 43 a8 44 
+encrypted block before shuffle: 88 cd bf cb e7 98 1a 14 42 1c 44 83 ec b3 9b 11 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: 25 2f cc fb 4e b6 d5 48 27 26 af cb 0d b5 5c e5 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: c6 2f ec 7a 46 3b 96 ba 81 9f 99 0f 2c 43 a8 44 
+plaintext before xor with CBC: af 5c cc 0d 27 48 b6 d5 e5 fb b5 2f 4e 26 cb 25 
+after plaintext xor CBC: 69 73 20 77 61 73 20 6f 64 64 2c 20 62 65 63 61 
+
+prev_cipher: 88 cd bf cb e7 98 1a 14 42 1c 44 83 ec b3 9b 11 
+encrypted block before shuffle: fa 03 a4 15 6e 04 5e 71 b4 75 65 e3 33 f3 9d c8 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: e7 91 c7 75 77 da e1 fd 61 9f be 9b 62 45 2a ec 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 88 cd bf cb e7 98 1a 14 42 1c 44 83 ec b3 9b 11 
+plaintext before xor with CBC: fd be da e7 c7 e1 75 61 62 77 2a ec 9b 9f 91 45 
+after plaintext xor CBC: 75 73 65 2c 20 79 6f 75 20 6b 6e 6f 77 2c 0a 54 
+
+prev_cipher: fa 03 a4 15 6e 04 5e 71 b4 75 65 e3 33 f3 9d c8 
+encrypted block before shuffle: 8c 1f 55 f5 54 bb 95 01 cf 34 d4 2a a7 f5 35 11 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 01 5d 06 65 dd 35 3a bd 8a ae 1f 82 66 93 92 45 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: fa 03 a4 15 6e 04 5e 71 b4 75 65 e3 33 f3 9d c8 
+plaintext before xor with CBC: 92 66 dd 35 06 65 3a 1f 93 01 45 82 5d 8a bd ae 
+after plaintext xor CBC: 68 65 79 20 68 61 64 6e 27 74 20 61 6e 79 20 66 
+
+prev_cipher: 8c 1f 55 f5 54 bb 95 01 cf 34 d4 2a a7 f5 35 11 
+encrypted block before shuffle: 2e 21 de ba 9a 7b cf aa 41 24 60 69 6f ac 7e a5 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: d3 d3 9d 7a 63 45 50 46 f4 6e db b1 5e ba e9 21 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: 8c 1f 55 f5 54 bb 95 01 cf 34 d4 2a a7 f5 35 11 
+plaintext before xor with CBC: e9 7a 21 db 5e b1 d3 6e ba 46 f4 45 d3 9d 50 63 
+after plaintext xor CBC: 65 65 74 2e 0a 0a 46 6f 75 72 20 6f 74 68 65 72 
+
+prev_cipher: 2e 21 de ba 9a 7b cf aa 41 24 60 69 6f ac 7e a5 
+encrypted block before shuffle: 63 a7 2d 39 08 e1 e1 dc fc 39 a8 e6 e3 7b 8e 13 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 0e 05 1e c9 61 0f 6e c0 d9 c3 03 ee 42 bd 09 a7 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 2e 21 de ba 9a 7b cf aa 41 24 60 69 6f ac 7e a5 
+plaintext before xor with CBC: 0e 6e a7 c9 ee 1e bd d9 61 42 0f 05 03 c3 09 c0 
+after plaintext xor CBC: 20 4f 79 73 74 65 72 73 20 66 6f 6c 6c 6f 77 65 
+
+prev_cipher: 63 a7 2d 39 08 e1 e1 dc fc 39 a8 e6 e3 7b 8e 13 
+encrypted block before shuffle: 8c d5 24 9d c7 64 4c 81 19 6c 57 61 7c 21 ed 32 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 51 87 07 bd 1e fa 33 cd 8c c6 cc 59 6d 57 9a d6 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: 63 a7 2d 39 08 e1 e1 dc fc 39 a8 e6 e3 7b 8e 13 
+plaintext before xor with CBC: 07 87 59 51 6d 8c cd d6 bd 57 cc c6 9a 1e fa 33 
+after plaintext xor CBC: 64 20 74 68 65 6d 2c 0a 41 6e 64 20 79 65 74 20 
+
+prev_cipher: 8c d5 24 9d c7 64 4c 81 19 6c 57 61 7c 21 ed 32 
+encrypted block before shuffle: 06 ae 00 eb 15 6c 28 91 ec 71 8a 17 20 89 64 2a 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: 4b ac 13 bb 5c 22 47 ed e9 2b 01 7f a1 af 03 3e 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: 8c d5 24 9d c7 64 4c 81 19 6c 57 61 7c 21 ed 32 
+plaintext before xor with CBC: ed bb 4b e9 af 01 3e a1 7f 03 22 13 47 2b ac 5c 
+after plaintext xor CBC: 61 6e 6f 74 68 65 72 20 66 6f 75 72 3b 0a 41 6e 
+
+prev_cipher: 06 ae 00 eb 15 6c 28 91 ec 71 8a 17 20 89 64 2a 
+encrypted block before shuffle: fb bd eb e2 c5 e1 68 1d 01 89 f6 8f 1f 95 09 ca 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: 46 0f e8 62 7c 1f 37 b1 74 83 8d 17 ee 43 5e 8e 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 06 ae 00 eb 15 6c 28 91 ec 71 8a 17 20 89 64 2a 
+plaintext before xor with CBC: 62 8e 74 83 7c 0f 43 b1 8d 1f ee 37 46 e8 17 5e 
+after plaintext xor CBC: 64 20 74 68 69 63 6b 20 61 6e 64 20 66 61 73 74 
+
+prev_cipher: fb bd eb e2 c5 e1 68 1d 01 89 f6 8f 1f 95 09 ca 
+encrypted block before shuffle: c3 07 1f 1b ae 78 cc a0 2c b1 b0 7d 0d ed 86 c8 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: ee 65 ec ab 87 d6 83 7c c9 0b db b5 6c 6b c1 bc 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: fb bd eb e2 c5 e1 68 1d 01 89 f6 8f 1f 95 09 ca 
+plaintext before xor with CBC: db c9 83 87 bc c1 0b 7c 6c ec d6 ee 6b b5 65 ab 
+after plaintext xor CBC: 20 74 68 65 79 20 63 61 6d 65 20 61 74 20 6c 61 
+
+prev_cipher: c3 07 1f 1b ae 78 cc a0 2c b1 b0 7d 0d ed 86 c8 
+encrypted block before shuffle: bc cc 90 60 31 46 99 ce b2 a7 b4 48 c0 05 21 e5 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 21 de 73 80 a8 18 a6 c2 e7 cd ef b0 11 33 16 41 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: c3 07 1f 1b ae 78 cc a0 2c b1 b0 7d 0d ed 86 c8 
+plaintext before xor with CBC: b0 73 33 11 ef 16 a8 80 41 de c2 18 21 cd e7 a6 
+after plaintext xor CBC: 73 74 2c 0a 41 6e 64 20 6d 6f 72 65 2c 20 61 6e 
+
+prev_cipher: bc cc 90 60 31 46 99 ce b2 a7 b4 48 c0 05 21 e5 
+encrypted block before shuffle: 5e aa 3d ed 06 d6 e6 ef 45 f6 21 6b 62 36 92 79 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: 53 68 ee fd 0f d8 c9 d3 80 ec 6a 43 23 d0 b5 ad 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: bc cc 90 60 31 46 99 ce b2 a7 b4 48 c0 05 21 e5 
+plaintext before xor with CBC: d8 ec fd 0f 43 23 b5 ee d3 c9 d0 68 ad 6a 53 80 
+after plaintext xor CBC: 64 20 6d 6f 72 65 2c 20 61 6e 64 20 6d 6f 72 65 
+
+prev_cipher: 5e aa 3d ed 06 d6 e6 ef 45 f6 21 6b 62 36 92 79 
+encrypted block before shuffle: 0e f4 92 f2 13 94 28 d6 39 66 fd 55 e0 11 15 83 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: 73 86 51 b2 6a 2a 37 ba 0c ac c6 0d 51 87 02 87 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: 5e aa 3d ed 06 d6 e6 ef 45 f6 21 6b 62 36 92 79 
+plaintext before xor with CBC: 73 87 37 ac 6a ba c6 87 2a 86 51 02 0c 51 b2 0d 
+after plaintext xor CBC: 2d 2d 0a 41 6c 6c 20 68 6f 70 70 69 6e 67 20 74 
+
+prev_cipher: 0e f4 92 f2 13 94 28 d6 39 66 fd 55 e0 11 15 83 
+encrypted block before shuffle: 11 a5 35 73 da b3 7b 77 f4 e8 4d 75 5f 27 0f 96 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: fc 87 86 03 33 dd 74 eb 51 92 66 fd 7e 61 08 a2 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: 0e f4 92 f2 13 94 28 d6 39 66 fd 55 e0 11 15 83 
+plaintext before xor with CBC: 66 86 fd 87 74 fc 08 a2 51 03 dd 33 92 7e 61 eb 
+after plaintext xor CBC: 68 72 6f 75 67 68 20 74 68 65 20 66 72 6f 74 68 
+
+prev_cipher: 11 a5 35 73 da b3 7b 77 f4 e8 4d 75 5f 27 0f 96 
+encrypted block before shuffle: 4f 86 cb 83 bd 72 53 c4 bc 3b cd 46 ee b4 72 3f 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: 12 54 68 23 e4 6c ac 08 a9 11 d6 fe 7f 42 85 5b 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 11 a5 35 73 da b3 7b 77 f4 e8 4d 75 5f 27 0f 96 
+plaintext before xor with CBC: 68 85 42 12 ac d6 08 5b fe a9 23 11 7f 54 6c e4 
+after plaintext xor CBC: 79 20 77 61 76 65 73 2c 0a 41 6e 64 20 73 63 72 
+
+prev_cipher: 4f 86 cb 83 bd 72 53 c4 bc 3b cd 46 ee b4 72 3f 
+encrypted block before shuffle: 26 b0 5b 84 18 67 c1 e0 c9 0e 3f 6e ee 4b 03 c6 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: eb 32 c8 54 d1 a9 2e 1c 4c d4 34 86 ef ed e4 52 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 4f 86 cb 83 bd 72 53 c4 bc 3b cd 46 ee b4 72 3f 
+plaintext before xor with CBC: 2e eb a9 ef d4 1c 34 e4 c8 54 ed 32 86 d1 52 4c 
+after plaintext xor CBC: 61 6d 62 6c 69 6e 67 20 74 6f 20 74 68 65 20 73 
+
+prev_cipher: 26 b0 5b 84 18 67 c1 e0 c9 0e 3f 6e ee 4b 03 c6 
+encrypted block before shuffle: 73 43 0c 6b 1e b5 3e 9f 2a 2b d2 75 47 49 63 fd 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: 4e 71 8f 6b 27 cb e1 b3 df a1 29 6d 36 1f b4 39 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: 26 b0 5b 84 18 67 c1 e0 c9 0e 3f 6e ee 4b 03 c6 
+plaintext before xor with CBC: 4e df 29 e1 36 6d cb b4 a1 6b 1f 39 8f 27 71 b3 
+after plaintext xor CBC: 68 6f 72 65 2e 0a 0a 54 68 65 20 57 61 6c 72 75 
+
+prev_cipher: 73 43 0c 6b 1e b5 3e 9f 2a 2b d2 75 47 49 63 fd 
+encrypted block before shuffle: 3e f6 1e 3b 9c 64 38 c9 1f 03 eb 4e e4 97 a4 bb 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: 93 14 6d 0b 35 4a f7 95 7a 39 00 06 05 91 63 4f 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: 73 43 0c 6b 1e b5 3e 9f 2a 2b d2 75 47 49 63 fd 
+plaintext before xor with CBC: 00 63 6d 05 7a 95 4a f7 4f 0b 91 14 35 39 06 93 
+after plaintext xor CBC: 73 20 61 6e 64 20 74 68 65 20 43 61 72 70 65 6e 
+
+prev_cipher: 3e f6 1e 3b 9c 64 38 c9 1f 03 eb 4e e4 97 a4 bb 
+encrypted block before shuffle: 2c 57 a8 34 7e b2 ba c6 77 5d 48 f2 2b 2d 7c 05 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 31 c5 cb 54 67 6c 05 4a a2 b7 93 8a 7a 9b cb 21 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 3e f6 1e 3b 9c 64 38 c9 1f 03 eb 4e e4 97 a4 bb 
+plaintext before xor with CBC: 4a 93 6c 31 cb 05 54 a2 7a 67 cb 21 8a b7 c5 9b 
+after plaintext xor CBC: 74 65 72 0a 57 61 6c 6b 65 64 20 6f 6e 20 61 20 
+
+prev_cipher: 2c 57 a8 34 7e b2 ba c6 77 5d 48 f2 2b 2d 7c 05 
+encrypted block before shuffle: bf 28 0d 4d 4d df 67 a4 06 bf 2d 50 ff 62 e6 30 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 32 6a 5e dd c4 51 c8 18 43 25 e6 f8 3e 04 41 64 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 2c 57 a8 34 7e b2 ba c6 77 5d 48 f2 2b 2d 7c 05 
+plaintext before xor with CBC: 41 3e c4 51 5e dd c8 e6 04 32 64 f8 6a 43 18 25 
+after plaintext xor CBC: 6d 69 6c 65 20 6f 72 20 73 6f 2c 0a 41 6e 64 20 
+
+prev_cipher: bf 28 0d 4d 4d df 67 a4 06 bf 2d 50 ff 62 e6 30 
+encrypted block before shuffle: 71 fd 55 80 ad 0b 1c 73 ea 8b 98 73 5c 69 5c ec 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: 8c 0f 16 40 54 35 83 9f 5f c1 23 ab 6d 7f cb 68 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: bf 28 0d 4d 4d df 67 a4 06 bf 2d 50 ff 62 e6 30 
+plaintext before xor with CBC: cb 40 68 23 6d ab 0f c1 7f 9f 5f 35 8c 16 83 54 
+after plaintext xor CBC: 74 68 65 6e 20 74 68 65 79 20 72 65 73 74 65 64 
+
+prev_cipher: 71 fd 55 80 ad 0b 1c 73 ea 8b 98 73 5c 69 5c ec 
+encrypted block before shuffle: 3c 92 18 50 e0 7c 1d 95 39 fd 98 c4 41 a8 ad 8f 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 51 30 2b a0 89 92 92 89 1c 07 33 cc e0 6e 2a 3b 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 71 fd 55 80 ad 0b 1c 73 ea 8b 98 73 5c 69 5c ec 
+plaintext before xor with CBC: 51 92 3b a0 cc 2b 6e 1c 89 e0 92 30 33 07 2a 89 
+after plaintext xor CBC: 20 6f 6e 20 61 20 72 6f 63 6b 0a 43 6f 6e 76 65 
+
+prev_cipher: 3c 92 18 50 e0 7c 1d 95 39 fd 98 c4 41 a8 ad 8f 
+encrypted block before shuffle: e3 a9 71 75 30 5d 94 28 85 54 74 45 85 e4 3c 51 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 3e fb 52 55 e9 c3 eb 64 10 fe ef 7d 94 92 4b b5 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: 3c 92 18 50 e0 7c 1d 95 39 fd 98 c4 41 a8 ad 8f 
+plaintext before xor with CBC: 52 fb 7d 3e 94 10 64 b5 55 92 ef fe 4b e9 c3 eb 
+after plaintext xor CBC: 6e 69 65 6e 74 6c 79 20 6c 6f 77 3a 0a 41 6e 64 
+
+prev_cipher: e3 a9 71 75 30 5d 94 28 85 54 74 45 85 e4 3c 51 
+encrypted block before shuffle: 50 5b 22 98 38 53 9e bf 1c d2 a2 cd cc 36 5f e8 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: 1d 59 31 c8 71 1d f1 c3 19 88 29 a5 4d 10 38 fc 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: e3 a9 71 75 30 5d 94 28 85 54 74 45 85 e4 3c 51 
+plaintext before xor with CBC: c3 c8 1d 19 10 29 fc 4d a5 38 1d 31 f1 88 59 71 
+after plaintext xor CBC: 20 61 6c 6c 20 74 68 65 20 6c 69 74 74 6c 65 20 
+
+prev_cipher: 50 5b 22 98 38 53 9e bf 1c d2 a2 cd cc 36 5f e8 
+encrypted block before shuffle: 15 93 3f 9f e4 58 fd 33 24 e6 14 86 3c 3b d1 66 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: a8 21 3c 1f 5d a6 a2 9f 51 ec 6f 1e cd ed 86 22 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 50 5b 22 98 38 53 9e bf 1c d2 a2 cd cc 36 5f e8 
+plaintext before xor with CBC: 1f 22 51 ec 5d 21 ed 9f 6f a6 cd a2 a8 3c 1e 86 
+after plaintext xor CBC: 4f 79 73 74 65 72 73 20 73 74 6f 6f 64 0a 41 6e 
+
+prev_cipher: 15 93 3f 9f e4 58 fd 33 24 e6 14 86 3c 3b d1 66 
+encrypted block before shuffle: 8b c1 7c b9 d7 d4 07 8b 56 22 1a d3 65 db 6b f9 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: a6 a3 8f 09 fe 7a 48 57 b3 98 71 1b 04 5d 2c 8d 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 15 93 3f 9f e4 58 fd 33 24 e6 14 86 3c 3b d1 66 
+plaintext before xor with CBC: 71 b3 48 fe 8d 2c 98 57 04 8f 7a a6 5d 1b a3 09 
+after plaintext xor CBC: 64 20 77 61 69 74 65 64 20 69 6e 20 61 20 72 6f 
+
+prev_cipher: 8b c1 7c b9 d7 d4 07 8b 56 22 1a d3 65 db 6b f9 
+encrypted block before shuffle: 9d 44 0c 0e f6 e0 a7 7f 56 91 ae 04 62 40 b7 d2 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 00 56 ef ee 6f be 98 73 03 fb f5 fc b3 76 80 76 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 8b c1 7c b9 d7 d4 07 8b 56 22 1a d3 65 db 6b f9 
+plaintext before xor with CBC: fc ef 76 b3 f5 80 6f ee 76 56 73 be 00 fb 03 98 
+after plaintext xor CBC: 77 2e 0a 0a 22 54 68 65 20 74 69 6d 65 20 68 61 
+
+prev_cipher: 9d 44 0c 0e f6 e0 a7 7f 56 91 ae 04 62 40 b7 d2 
+encrypted block before shuffle: db a3 8e 7f 68 e0 ca 4a 7b 7e 5c b3 c4 20 ac 96 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: d6 61 5d 6f 61 ee e5 76 be 64 17 9b 85 c6 8b 42 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: 9d 44 0c 0e f6 e0 a7 7f 56 91 ae 04 62 40 b7 d2 
+plaintext before xor with CBC: ee 64 6f 61 9b 85 8b 5d 76 e5 c6 61 42 17 d6 be 
+after plaintext xor CBC: 73 20 63 6f 6d 65 2c 22 20 74 68 65 20 57 61 6c 
+
+prev_cipher: db a3 8e 7f 68 e0 ca 4a 7b 7e 5c b3 c4 20 ac 96 
+encrypted block before shuffle: d4 06 c3 98 62 e9 e2 ed 9e 95 98 af cf b8 f0 d2 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: a9 74 00 d8 1b 57 fd 81 ab 5f a3 f7 7e 2e e7 d6 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: db a3 8e 7f 68 e0 ca 4a 7b 7e 5c b3 c4 20 ac 96 
+plaintext before xor with CBC: a9 d6 fd 5f 1b 81 a3 2e 57 74 7e e7 ab 00 d8 f7 
+after plaintext xor CBC: 72 75 73 20 73 61 69 64 2c 0a 22 54 6f 20 74 61 
+
+prev_cipher: d4 06 c3 98 62 e9 e2 ed 9e 95 98 af cf b8 f0 d2 
+encrypted block before shuffle: 24 d5 de 9c 32 d6 0b 29 55 dd 93 6b f0 d8 88 b8 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: c9 f7 6d ec db b8 04 b5 f0 a7 b8 e3 d1 9e 8f 8c 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: d4 06 c3 98 62 e9 e2 ed 9e 95 98 af cf b8 f0 d2 
+plaintext before xor with CBC: b8 6d e3 f7 04 c9 8f 8c f0 ec b8 db a7 d1 9e b5 
+after plaintext xor CBC: 6c 6b 20 6f 66 20 6d 61 6e 79 20 74 68 69 6e 67 
+
+prev_cipher: 24 d5 de 9c 32 d6 0b 29 55 dd 93 6b f0 d8 88 b8 
+encrypted block before shuffle: 8e 6b f4 40 85 f8 ab b4 ad 6c ed 82 4c 22 18 25 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: d3 b9 57 e0 dc e6 54 78 b8 46 f6 3a dd d4 ef 41 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 24 d5 de 9c 32 d6 0b 29 55 dd 93 6b f0 d8 88 b8 
+plaintext before xor with CBC: 57 ef d4 d3 54 f6 78 41 3a b8 e0 46 dd b9 e6 dc 
+after plaintext xor CBC: 73 3a 0a 4f 66 20 73 68 6f 65 73 2d 2d 61 6e 64 
+
+prev_cipher: 8e 6b f4 40 85 f8 ab b4 ad 6c ed 82 4c 22 18 25 
+encrypted block before shuffle: d5 20 5f d2 8e 52 41 77 cc 2f 8d d7 28 2f 7e ed 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 18 a2 cc 02 47 9c ae 8b 49 f5 86 3f 29 89 99 79 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 8e 6b f4 40 85 f8 ab b4 ad 6c ed 82 4c 22 18 25 
+plaintext before xor with CBC: ae 18 9c 29 f5 8b 86 99 cc 02 89 a2 3f 47 79 49 
+after plaintext xor CBC: 20 73 68 69 70 73 2d 2d 61 6e 64 20 73 65 61 6c 
+
+prev_cipher: d5 20 5f d2 8e 52 41 77 cc 2f 8d d7 28 2f 7e ed 
+encrypted block before shuffle: 81 2d 8b 25 75 47 20 a3 bb 6b c3 2b 88 94 8d 75 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: bc 1f 08 25 4c 39 ff 8f 4e e1 38 33 f9 c2 5a b1 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: d5 20 5f d2 8e 52 41 77 cc 2f 8d d7 28 2f 7e ed 
+plaintext before xor with CBC: bc 4e 38 ff f9 33 39 5a e1 25 c2 b1 08 4c 1f 8f 
+after plaintext xor CBC: 69 6e 67 2d 77 61 78 2d 2d 0a 4f 66 20 63 61 62 
+
+prev_cipher: 81 2d 8b 25 75 47 20 a3 bb 6b c3 2b 88 94 8d 75 
+encrypted block before shuffle: ab a2 9f 3f 48 23 0d 36 63 c0 08 a2 a1 e5 8b 21 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: 06 40 ec 0f e1 0d c2 6a 06 fa e3 ea 40 e3 4c d5 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: 81 2d 8b 25 75 47 20 a3 bb 6b c3 2b 88 94 8d 75 
+plaintext before xor with CBC: e3 4c ec 40 06 6a 0d c2 d5 0f e3 40 e1 fa ea 06 
+after plaintext xor CBC: 62 61 67 65 73 2d 2d 61 6e 64 20 6b 69 6e 67 73 
+
+prev_cipher: ab a2 9f 3f 48 23 0d 36 63 c0 08 a2 a1 e5 8b 21 
+encrypted block before shuffle: 63 39 45 4d a0 4b f8 0a 94 6a 54 b1 5a e4 9f f2 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 7e ab 26 2d b9 95 47 86 41 80 8f c9 0b 52 28 d6 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: ab a2 9f 3f 48 23 0d 36 63 c0 08 a2 a1 e5 8b 21 
+plaintext before xor with CBC: 86 8f 95 7e 26 47 2d 41 0b b9 28 d6 c9 80 ab 52 
+after plaintext xor CBC: 2d 2d 0a 41 6e 64 20 77 68 79 20 74 68 65 20 73 
+
+prev_cipher: 63 39 45 4d a0 4b f8 0a 94 6a 54 b1 5a e4 9f f2 
+encrypted block before shuffle: 8b 7f 80 fb ec aa 35 4b 81 07 ae 77 99 9b a1 69 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 06 3d d3 6b 65 24 9a f7 c4 9d 65 df 58 fd 06 3d 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 63 39 45 4d a0 4b f8 0a 94 6a 54 b1 5a e4 9f f2 
+plaintext before xor with CBC: 06 58 65 24 d3 6b 9a 65 fd 06 3d df 3d c4 f7 9d 
+after plaintext xor CBC: 65 61 20 69 73 20 62 6f 69 6c 69 6e 67 20 68 6f 
+
+prev_cipher: 8b 7f 80 fb ec aa 35 4b 81 07 ae 77 99 9b a1 69 
+encrypted block before shuffle: 0c a3 bd 92 b0 3d 4c 83 7e 21 4a 1c 9c e0 68 29 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: f1 51 fe 52 49 03 d3 6f cb 6b f1 c4 ad f6 ff ad 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: 8b 7f 80 fb ec aa 35 4b 81 07 ae 77 99 9b a1 69 
+plaintext before xor with CBC: ff 52 ad f1 ad c4 51 6b f6 6f cb 03 f1 fe d3 49 
+after plaintext xor CBC: 74 2d 2d 0a 41 6e 64 20 77 68 65 74 68 65 72 20 
+
+prev_cipher: 0c a3 bd 92 b0 3d 4c 83 7e 21 4a 1c 9c e0 68 29 
+encrypted block before shuffle: 11 d7 66 11 72 d3 45 1b d0 7d 59 98 a0 eb 9c 6e 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 7c 75 55 e1 1b 3d ca 07 f5 87 f2 90 01 2d 1b da 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 0c a3 bd 92 b0 3d 4c 83 7e 21 4a 1c 9c e0 68 29 
+plaintext before xor with CBC: 7c ca da e1 90 55 2d f5 1b 01 3d 75 f2 87 1b 07 
+after plaintext xor CBC: 70 69 67 73 20 68 61 76 65 20 77 69 6e 67 73 2e 
+
+prev_cipher: 11 d7 66 11 72 d3 45 1b d0 7d 59 98 a0 eb 9c 6e 
+encrypted block before shuffle: ee 8f 10 87 53 22 73 7d 33 46 ab 54 21 6a f7 df 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 33 dd 33 a7 8a bc 0c 31 a6 ec 30 6c 30 1c 80 3b 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: 11 d7 66 11 72 d3 45 1b d0 7d 59 98 a0 eb 9c 6e 
+plaintext before xor with CBC: 33 dd 6c 33 30 a6 31 3b a7 1c 30 ec 80 8a bc 0c 
+after plaintext xor CBC: 22 0a 0a 22 42 75 74 20 77 61 69 74 20 61 20 62 
+
+prev_cipher: ee 8f 10 87 53 22 73 7d 33 46 ab 54 21 6a f7 df 
+encrypted block before shuffle: 71 87 34 ab e5 9c 3a fb a0 55 dd 7b 99 55 6e 0f 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: 3c 85 27 fb ac d2 55 87 a5 0f 56 13 18 73 09 1b 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: ee 8f 10 87 53 22 73 7d 33 46 ab 54 21 6a f7 df 
+plaintext before xor with CBC: 87 fb 3c a5 73 56 1b 18 13 09 d2 27 55 0f 85 ac 
+after plaintext xor CBC: 69 74 2c 22 20 74 68 65 20 4f 79 73 74 65 72 73 
+
+prev_cipher: 71 87 34 ab e5 9c 3a fb a0 55 dd 7b 99 55 6e 0f 
+encrypted block before shuffle: 4b 4a 24 d1 39 e9 42 5d 33 c8 f9 93 49 c0 78 a0 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: f6 f8 27 51 80 17 1d f1 46 c2 82 0b b8 16 2f e4 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 71 87 34 ab e5 9c 3a fb a0 55 dd 7b 99 55 6e 0f 
+plaintext before xor with CBC: 51 e4 46 c2 80 f8 16 f1 82 17 b8 1d f6 27 0b 2f 
+after plaintext xor CBC: 20 63 72 69 65 64 2c 0a 22 42 65 66 6f 72 65 20 
+
+prev_cipher: 4b 4a 24 d1 39 e9 42 5d 33 c8 f9 93 49 c0 78 a0 
+encrypted block before shuffle: 9e 7b 4e 64 90 25 4b a1 ca 9d 57 60 3d ac d8 2c 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: b3 19 bd d4 b9 8b 04 7d 2f 27 3c a8 5c 2a 9f 58 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 4b 4a 24 d1 39 e9 42 5d 33 c8 f9 93 49 c0 78 a0 
+plaintext before xor with CBC: 3c 2f 04 b9 58 9f 27 7d 5c bd 8b b3 2a a8 19 d4 
+after plaintext xor CBC: 77 65 20 68 61 76 65 20 6f 75 72 20 63 68 61 74 
+
+prev_cipher: 9e 7b 4e 64 90 25 4b a1 ca 9d 57 60 3d ac d8 2c 
+encrypted block before shuffle: c6 ea 92 2e a1 51 60 7b f8 e6 b9 5d da 3e 32 03 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 5b f8 71 ce 38 0f 5f 77 ad 8c e2 a5 0b 08 05 a7 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 9e 7b 4e 64 90 25 4b a1 ca 9d 57 60 3d ac d8 2c 
+plaintext before xor with CBC: a5 71 08 0b e2 05 38 ce a7 f8 77 0f 5b 8c ad 5f 
+after plaintext xor CBC: 3b 0a 46 6f 72 20 73 6f 6d 65 20 6f 66 20 75 73 
+
+prev_cipher: c6 ea 92 2e a1 51 60 7b f8 e6 b9 5d da 3e 32 03 
+encrypted block before shuffle: 5a bf dc f0 42 e8 a6 e4 a7 91 07 a9 7f 39 32 6c 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: 57 7d 0f e0 4b e6 89 d8 62 8b 4c 81 3e df 15 b8 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: c6 ea 92 2e a1 51 60 7b f8 e6 b9 5d da 3e 32 03 
+plaintext before xor with CBC: e6 8b e0 4b 81 3e 15 0f d8 89 df 7d b8 4c 57 62 
+after plaintext xor CBC: 20 61 72 65 20 6f 75 74 20 6f 66 20 62 72 65 61 
+
+prev_cipher: 5a bf dc f0 42 e8 a6 e4 a7 91 07 a9 7f 39 32 6c 
+encrypted block before shuffle: 53 8f 9c 52 7a 78 ef ea 25 30 f9 41 da 52 9e d3 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: 2e fd 5f 12 03 c6 f0 86 10 fa c2 19 6b c4 89 d7 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: 5a bf dc f0 42 e8 a6 e4 a7 91 07 a9 7f 39 32 6c 
+plaintext before xor with CBC: 2e d7 f0 fa 03 86 c2 c4 c6 fd 6b 89 10 5f 12 19 
+after plaintext xor CBC: 74 68 2c 0a 41 6e 64 20 61 6c 6c 20 6f 66 20 75 
+
+prev_cipher: 53 8f 9c 52 7a 78 ef ea 25 30 f9 41 da 52 9e d3 
+encrypted block before shuffle: b5 02 1c 61 a2 b5 10 6f f4 82 0b 75 3d b7 8e bf 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: 58 20 af 11 4b db 1f f3 51 f8 20 fd 1c f1 89 8b 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: 53 8f 9c 52 7a 78 ef ea 25 30 f9 41 da 52 9e d3 
+plaintext before xor with CBC: 20 af fd 20 1f 58 89 8b 51 11 db 4b f8 1c f1 f3 
+after plaintext xor CBC: 73 20 61 72 65 20 66 61 74 21 22 0a 22 4e 6f 20 
+
+prev_cipher: b5 02 1c 61 a2 b5 10 6f f4 82 0b 75 3d b7 8e bf 
+encrypted block before shuffle: 4e 11 7e c2 83 f8 24 fe f6 3b 8f 3f 8c 98 80 2b 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: 13 c3 dd 62 da e6 db 32 e3 11 94 87 1d 6e 77 4f 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: b5 02 1c 61 a2 b5 10 6f f4 82 0b 75 3d b7 8e bf 
+plaintext before xor with CBC: dd 77 6e 13 db 94 32 4f 87 e3 62 11 1d c3 e6 da 
+after plaintext xor CBC: 68 75 72 72 79 21 22 20 73 61 69 64 20 74 68 65 
+
+prev_cipher: 4e 11 7e c2 83 f8 24 fe f6 3b 8f 3f 8c 98 80 2b 
+encrypted block before shuffle: 9f b7 00 99 39 d1 81 61 d7 29 41 30 b1 07 6d 71 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 52 35 93 49 f0 1f 6e 9d 52 f3 4a d8 b0 a1 8a e5 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 4e 11 7e c2 83 f8 24 fe f6 3b 8f 3f 8c 98 80 2b 
+plaintext before xor with CBC: 6e 52 1f b0 f3 9d 4a 8a 93 49 a1 35 d8 f0 e5 52 
+after plaintext xor CBC: 20 43 61 72 70 65 6e 74 65 72 2e 0a 54 68 65 79 
+
+prev_cipher: 9f b7 00 99 39 d1 81 61 d7 29 41 30 b1 07 6d 71 
+encrypted block before shuffle: 82 2a 12 41 53 9a 27 3e 36 7d 93 a2 26 7e d2 99 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: bf 18 91 41 6a e4 f8 12 c3 f7 68 ba 57 28 05 5d 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: 9f b7 00 99 39 d1 81 61 d7 29 41 30 b1 07 6d 71 
+plaintext before xor with CBC: bf c3 68 f8 57 ba e4 05 f7 41 28 5d 91 6a 18 12 
+after plaintext xor CBC: 20 74 68 61 6e 6b 65 64 20 68 69 6d 20 6d 75 63 
+
+prev_cipher: 82 2a 12 41 53 9a 27 3e 36 7d 93 a2 26 7e d2 99 
+encrypted block before shuffle: 14 4a 07 39 85 7d 99 e6 44 66 01 db cf bb cd a3 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: b9 a8 74 09 2c 53 56 ba 21 5c ea 93 2e bd 0a 57 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: 82 2a 12 41 53 9a 27 3e 36 7d 93 a2 26 7e d2 99 
+plaintext before xor with CBC: ea 0a 74 2e 21 ba 53 56 57 09 bd a8 2c 5c 93 b9 
+after plaintext xor CBC: 68 20 66 6f 72 20 74 68 61 74 2e 0a 0a 22 41 20 
+
+prev_cipher: 14 4a 07 39 85 7d 99 e6 44 66 01 db cf bb cd a3 
+encrypted block before shuffle: 42 7d c6 9f 0d b8 ad f4 13 7d fe d3 77 35 d3 9e 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 5f ef a5 ff 14 66 12 78 c6 97 25 ab 26 83 64 ba 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 14 4a 07 39 85 7d 99 e6 44 66 01 db cf bb cd a3 
+plaintext before xor with CBC: 78 25 66 5f a5 12 ff c6 26 14 64 ba ab 97 ef 83 
+after plaintext xor CBC: 6c 6f 61 66 20 6f 66 20 62 72 65 61 64 2c 22 20 
+
+prev_cipher: 42 7d c6 9f 0d b8 ad f4 13 7d fe d3 77 35 d3 9e 
+encrypted block before shuffle: 83 54 09 49 2a 31 6e 0b 19 28 4d 08 d4 00 91 8a 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 0e 16 5a d9 a3 bf c1 b7 5c b2 86 a0 15 66 36 de 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 42 7d c6 9f 0d b8 ad f4 13 7d fe d3 77 35 d3 9e 
+plaintext before xor with CBC: 36 15 a3 bf 5a d9 c1 86 66 0e de a0 16 5c b7 b2 
+after plaintext xor CBC: 74 68 65 20 57 61 6c 72 75 73 20 73 61 69 64 2c 
+
+prev_cipher: 83 54 09 49 2a 31 6e 0b 19 28 4d 08 d4 00 91 8a 
+encrypted block before shuffle: 09 f4 20 b6 1a 53 66 e4 8f 20 81 9e 3b 7b 1e c4 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: f4 06 63 76 e3 6d f9 08 3a 6a 3a 46 0a 6d 89 40 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: 83 54 09 49 2a 31 6e 0b 19 28 4d 08 d4 00 91 8a 
+plaintext before xor with CBC: 89 76 40 3a 0a 46 06 6a 6d 08 3a 6d f4 63 f9 e3 
+after plaintext xor CBC: 0a 22 49 73 20 77 68 61 74 20 77 65 20 63 68 69 
+
+prev_cipher: 09 f4 20 b6 1a 53 66 e4 8f 20 81 9e 3b 7b 1e c4 
+encrypted block before shuffle: 01 6c 0e 3f 82 65 1d bd a4 f1 f5 32 bb c5 e9 f8 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 6c ce 3d cf eb 8b 92 a1 81 0b 5e 3a 1a 03 6e 4c 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 09 f4 20 b6 1a 53 66 e4 8f 20 81 9e 3b 7b 1e c4 
+plaintext before xor with CBC: 6c 92 4c cf 3a 3d 03 81 eb 1a 8b ce 5e 0b 6e a1 
+after plaintext xor CBC: 65 66 6c 79 20 6e 65 65 64 3a 0a 50 65 70 70 65 
+
+prev_cipher: 01 6c 0e 3f 82 65 1d bd a4 f1 f5 32 bb c5 e9 f8 
+encrypted block before shuffle: 8c 1e 50 ea 3c 15 e2 27 d0 f9 09 57 f7 e2 be 30 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 51 4c 73 ca e5 8b 9d 6b 45 53 92 6f e6 94 c9 d4 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: 01 6c 0e 3f 82 65 1d bd a4 f1 f5 32 bb c5 e9 f8 
+plaintext before xor with CBC: 73 4c 6f 51 e6 45 6b d4 ca 94 92 53 c9 e5 8b 9d 
+after plaintext xor CBC: 72 20 61 6e 64 20 76 69 6e 65 67 61 72 20 62 65 
+
+prev_cipher: 8c 1e 50 ea 3c 15 e2 27 d0 f9 09 57 f7 e2 be 30 
+encrypted block before shuffle: 79 9c 21 27 1e 31 ea 83 8a c1 94 dd d4 69 be b7 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: 34 9e 32 77 57 7f 85 ff 8f 9b 1f b5 55 4f d9 a3 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: 8c 1e 50 ea 3c 15 e2 27 d0 f9 09 57 f7 e2 be 30 
+plaintext before xor with CBC: ff 77 34 8f 4f 1f a3 55 b5 d9 7f 32 85 9b 9e 57 
+after plaintext xor CBC: 73 69 64 65 73 0a 41 72 65 20 76 65 72 79 20 67 
+
+prev_cipher: 79 9c 21 27 1e 31 ea 83 8a c1 94 dd d4 69 be b7 
+encrypted block before shuffle: 63 ed 24 96 ce 5b af 4a 30 0d 94 49 48 58 97 b7 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: de 5f 27 16 77 a5 f0 e6 45 07 ef d1 b9 8e c0 f3 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 79 9c 21 27 1e 31 ea 83 8a c1 94 dd d4 69 be b7 
+plaintext before xor with CBC: 16 f3 45 07 77 5f 8e e6 ef a5 b9 f0 de 27 d1 c0 
+after plaintext xor CBC: 6f 6f 64 20 69 6e 64 65 65 64 2d 2d 0a 4e 6f 77 
+
+prev_cipher: 63 ed 24 96 ce 5b af 4a 30 0d 94 49 48 58 97 b7 
+encrypted block before shuffle: 16 91 9b 7e 9f 1a 0d b1 61 60 28 f1 23 ab 73 c3 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: 3b f3 68 ce b6 b4 42 6d 84 da 43 39 42 2d 34 b7 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 63 ed 24 96 ce 5b af 4a 30 0d 94 49 48 58 97 b7 
+plaintext before xor with CBC: 43 84 42 b6 b7 34 da 6d 42 68 b4 3b 2d 39 f3 ce 
+after plaintext xor CBC: 20 69 66 20 79 6f 75 27 72 65 20 72 65 61 64 79 
+
+prev_cipher: 16 91 9b 7e 9f 1a 0d b1 61 60 28 f1 23 ab 73 c3 
+encrypted block before shuffle: cc 16 3d 22 e6 ce ab 41 2c ed b0 ce dc d4 48 e5 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 51 04 de c2 7f 90 94 4d 79 87 eb 36 0d e2 7f 41 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 16 91 9b 7e 9f 1a 0d b1 61 60 28 f1 23 ab 73 c3 
+plaintext before xor with CBC: 36 de e2 0d eb 7f 7f c2 41 04 4d 90 51 87 79 94 
+after plaintext xor CBC: 20 4f 79 73 74 65 72 73 20 64 65 61 72 2c 0a 57 
+
+prev_cipher: cc 16 3d 22 e6 ce ab 41 2c ed b0 ce dc d4 48 e5 
+encrypted block before shuffle: 65 2c f7 4e 4a a7 ab 77 46 2c f0 a0 af 38 ee 7c 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: 68 ee 24 5e 43 a9 84 4b 83 36 bb 88 ee de c9 a8 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: cc 16 3d 22 e6 ce ab 41 2c ed b0 ce dc d4 48 e5 
+plaintext before xor with CBC: a9 36 5e 43 88 ee c9 24 4b 84 de ee a8 bb 68 83 
+after plaintext xor CBC: 65 20 63 61 6e 20 62 65 67 69 6e 20 74 6f 20 66 
+
+prev_cipher: 65 2c f7 4e 4a a7 ab 77 46 2c f0 a0 af 38 ee 7c 
+encrypted block before shuffle: 7d 2b 94 da 11 ba 8c c1 f4 aa 9a 04 35 c3 97 4d 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: 00 59 57 9a 68 04 93 ad c1 60 a1 5c 84 55 80 49 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: 65 2c f7 4e 4a a7 ab 77 46 2c f0 a0 af 38 ee 7c 
+plaintext before xor with CBC: 00 49 93 60 68 ad a1 55 04 59 84 80 c1 57 9a 5c 
+after plaintext xor CBC: 65 65 64 2e 22 0a 0a 22 42 75 74 20 6e 6f 74 20 
+
+prev_cipher: 7d 2b 94 da 11 ba 8c c1 f4 aa 9a 04 35 c3 97 4d 
+encrypted block before shuffle: 76 8d f6 b2 cd 91 6d a5 25 00 39 3c 9b a2 a9 d5 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: 9b af 45 c2 24 ff 62 39 80 7a 12 b4 ba e4 ae e1 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: 7d 2b 94 da 11 ba 8c c1 f4 aa 9a 04 35 c3 97 4d 
+plaintext before xor with CBC: 12 45 b4 af 62 9b ae e1 80 c2 ff 24 7a ba e4 39 
+after plaintext xor CBC: 6f 6e 20 75 73 21 22 20 74 68 65 20 4f 79 73 74 
+
+prev_cipher: 76 8d f6 b2 cd 91 6d a5 25 00 39 3c 9b a2 a9 d5 
+encrypted block before shuffle: cf 02 b0 93 e5 d9 51 c8 39 42 f8 f9 7f 73 08 a4 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: 92 d0 13 33 bc c7 ae 04 2c 68 e3 41 ee 85 ff c0 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 76 8d f6 b2 cd 91 6d a5 25 00 39 3c 9b a2 a9 d5 
+plaintext before xor with CBC: 13 ff 85 92 ae e3 04 c0 41 2c 33 68 ee d0 c7 bc 
+after plaintext xor CBC: 65 72 73 20 63 72 69 65 64 2c 0a 54 75 72 6e 69 
+
+prev_cipher: cf 02 b0 93 e5 d9 51 c8 39 42 f8 f9 7f 73 08 a4 
+encrypted block before shuffle: a8 5b de fe d6 5e 4e 49 44 1f 33 f5 f3 3b 5b e9 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 65 d9 4d 2e 1f 90 a1 b5 c1 c5 38 1d f2 9d bc 7d 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: cf 02 b0 93 e5 d9 51 c8 39 42 f8 f9 7f 73 08 a4 
+plaintext before xor with CBC: a1 65 90 f2 c5 b5 38 bc 4d 2e 9d d9 1d 1f 7d c1 
+after plaintext xor CBC: 6e 67 20 61 20 6c 69 74 74 6c 65 20 62 6c 75 65 
+
+prev_cipher: a8 5b de fe d6 5e 4e 49 44 1f 33 f5 f3 3b 5b e9 
+encrypted block before shuffle: b9 02 18 6c 22 55 60 ac a4 ee 07 32 c1 10 ec 52 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: 84 30 9b 6c 1b 2b bf 80 51 64 fc 2a b0 46 3b 96 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: a8 5b de fe d6 5e 4e 49 44 1f 33 f5 f3 3b 5b e9 
+plaintext before xor with CBC: 84 51 fc bf b0 2a 2b 3b 64 6c 46 96 9b 1b 30 80 
+after plaintext xor CBC: 2c 0a 22 41 66 74 65 72 20 73 75 63 68 20 6b 69 
+
+prev_cipher: b9 02 18 6c 22 55 60 ac a4 ee 07 32 c1 10 ec 52 
+encrypted block before shuffle: 8a a4 05 b6 48 62 43 7a 34 5d 3c cb e8 60 a1 24 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: 27 46 76 86 e1 4c 8c 26 51 67 d7 83 09 66 66 d0 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: b9 02 18 6c 22 55 60 ac a4 ee 07 32 c1 10 ec 52 
+plaintext before xor with CBC: d7 66 76 09 51 26 4c 8c d0 86 66 46 e1 67 83 27 
+after plaintext xor CBC: 6e 64 6e 65 73 73 2c 20 74 68 61 74 20 77 6f 75 
+
+prev_cipher: 8a a4 05 b6 48 62 43 7a 34 5d 3c cb e8 60 a1 24 
+encrypted block before shuffle: c9 13 4e 62 2d fb d7 6a 8f e6 1b f1 01 e6 f8 82 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: d4 81 2d 02 34 25 68 e6 5a 0c c0 89 50 50 4f a6 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 8a a4 05 b6 48 62 43 7a 34 5d 3c cb e8 60 a1 24 
+plaintext before xor with CBC: e6 c0 25 d4 2d 68 02 5a 50 34 4f a6 89 0c 81 50 
+after plaintext xor CBC: 6c 64 20 62 65 0a 41 20 64 69 73 6d 61 6c 20 74 
+
+prev_cipher: c9 13 4e 62 2d fb d7 6a 8f e6 1b f1 01 e6 f8 82 
+encrypted block before shuffle: 04 49 5e 1f a9 8b 17 10 81 70 81 7b bb 8d 06 6e 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 89 0b 0d 8f 20 05 b8 ac c4 ea 4a d3 7a eb a1 3a 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: c9 13 4e 62 2d fb d7 6a 8f e6 1b f1 01 e6 f8 82 
+plaintext before xor with CBC: a1 7a 20 05 0d 8f b8 4a eb 89 3a d3 0b c4 ac ea 
+after plaintext xor CBC: 68 69 6e 67 20 74 6f 20 64 6f 21 22 0a 22 54 68 
+
+prev_cipher: 04 49 5e 1f a9 8b 17 10 81 70 81 7b bb 8d 06 6e 
+encrypted block before shuffle: 2f 91 a0 a9 bb 23 fc ef 14 7a cd 3b ff fe f6 b4 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: d2 63 e3 69 42 1d 63 03 a1 30 76 e3 ce e8 61 30 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: 04 49 5e 1f a9 8b 17 10 81 70 81 7b bb 8d 06 6e 
+plaintext before xor with CBC: 61 69 30 76 ce e3 63 30 e8 03 a1 1d d2 e3 63 42 
+after plaintext xor CBC: 65 20 6e 69 67 68 74 20 69 73 20 66 69 6e 65 2c 
+
+prev_cipher: 2f 91 a0 a9 bb 23 fc ef 14 7a cd 3b ff fe f6 b4 
+encrypted block before shuffle: 60 ea 30 31 11 56 3e c1 ab 77 74 d6 a9 6d 10 60 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 0d 48 03 c1 78 b8 b1 dd 8e 8d df de 08 ab 97 d4 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 2f 91 a0 a9 bb 23 fc ef 14 7a cd 3b ff fe f6 b4 
+plaintext before xor with CBC: 0d b1 d4 c1 de 03 ab 8e 78 08 b8 48 df 8d 97 dd 
+after plaintext xor CBC: 22 20 74 68 65 20 57 61 6c 72 75 73 20 73 61 69 
+
+prev_cipher: 60 ea 30 31 11 56 3e c1 ab 77 74 d6 a9 6d 10 60 
+encrypted block before shuffle: a8 b2 27 fe dd fc 7a 0b e3 18 8e 2a 6f 21 b3 4a 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 75 e0 04 de 04 62 05 47 76 b2 15 12 7e 57 c4 ae 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: 60 ea 30 31 11 56 3e c1 ab 77 74 d6 a9 6d 10 60 
+plaintext before xor with CBC: 04 e0 12 75 7e 76 47 ae de 57 15 b2 c4 04 62 05 
+after plaintext xor CBC: 64 0a 22 44 6f 20 79 6f 75 20 61 64 6d 69 72 65 
+
+prev_cipher: a8 b2 27 fe dd fc 7a 0b e3 18 8e 2a 6f 21 b3 4a 
+encrypted block before shuffle: 02 c5 33 96 23 ca 22 f4 9e 32 01 fc ef db 40 07 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: 4f c7 20 c6 6a 84 4d 88 9b 68 8a 94 6e fd 27 13 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: a8 b2 27 fe dd fc 7a 0b e3 18 8e 2a 6f 21 b3 4a 
+plaintext before xor with CBC: 88 c6 4f 9b fd 8a 13 6e 94 27 84 20 4d 68 c7 6a 
+after plaintext xor CBC: 20 74 68 65 20 76 69 65 77 3f 0a 0a 22 49 74 20 
+
+prev_cipher: 02 c5 33 96 23 ca 22 f4 9e 32 01 fc ef db 40 07 
+encrypted block before shuffle: 3d 17 be f5 e9 a2 83 33 35 bc 8c f8 94 d4 29 e0 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: 80 a5 bd 75 50 5c dc 9f 40 b6 f7 60 65 02 7e a4 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 02 c5 33 96 23 ca 22 f4 9e 32 01 fc ef db 40 07 
+plaintext before xor with CBC: 75 a4 40 b6 50 a5 02 9f f7 5c 65 dc 80 bd 60 7e 
+after plaintext xor CBC: 77 61 73 20 73 6f 20 6b 69 6e 64 20 6f 66 20 79 
+
+prev_cipher: 3d 17 be f5 e9 a2 83 33 35 bc 8c f8 94 d4 29 e0 
+encrypted block before shuffle: df 2f 2a 70 a8 03 d1 80 87 5a 39 72 39 53 c5 f2 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: f2 4d d9 c0 81 ad 9e 5c 62 e0 52 ba 58 d5 82 86 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 3d 17 be f5 e9 a2 83 33 35 bc 8c f8 94 d4 29 e0 
+plaintext before xor with CBC: 52 62 9e 81 86 82 e0 5c 58 d9 ad f2 d5 ba 4d c0 
+after plaintext xor CBC: 6f 75 20 74 6f 20 63 6f 6d 65 21 0a 41 6e 64 20 
+
+prev_cipher: df 2f 2a 70 a8 03 d1 80 87 5a 39 72 39 53 c5 f2 
+encrypted block before shuffle: 84 2d a3 40 2d 55 ae 47 f9 57 92 5e 81 69 46 55 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 19 3f 40 a0 b4 0b 91 4b ac 3d c9 a6 50 5f 71 f1 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: df 2f 2a 70 a8 03 d1 80 87 5a 39 72 39 53 c5 f2 
+plaintext before xor with CBC: a6 40 5f 50 c9 71 b4 a0 f1 3f 4b 0b 19 3d ac 91 
+after plaintext xor CBC: 79 6f 75 20 61 72 65 20 76 65 72 79 20 6e 69 63 
+
+prev_cipher: 84 2d a3 40 2d 55 ae 47 f9 57 92 5e 81 69 46 55 
+encrypted block before shuffle: 3f ec b4 91 43 ef 19 86 f5 16 4c 51 7c 06 ec 30 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: 32 2e 67 81 4a e1 36 ba 30 0c 07 79 3d e0 cb e4 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: 84 2d a3 40 2d 55 ae 47 f9 57 92 5e 81 69 46 55 
+plaintext before xor with CBC: e1 0c 81 4a 79 3d cb 67 ba 36 e0 2e e4 07 32 30 
+after plaintext xor CBC: 65 21 22 0a 54 68 65 20 43 61 72 70 65 6e 74 65 
+
+prev_cipher: 3f ec b4 91 43 ef 19 86 f5 16 4c 51 7c 06 ec 30 
+encrypted block before shuffle: 30 10 a2 8c 53 24 d8 e7 27 3a 02 0a 95 7e 2f c8 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: 4d 62 61 cc 2a 9a c7 8b 12 f0 39 52 24 e8 38 cc 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: 3f ec b4 91 43 ef 19 86 f5 16 4c 51 7c 06 ec 30 
+plaintext before xor with CBC: 4d cc c7 f0 2a 8b 39 e8 9a 62 24 38 12 61 cc 52 
+after plaintext xor CBC: 72 20 73 61 69 64 20 6e 6f 74 68 69 6e 67 20 62 
+
+prev_cipher: 30 10 a2 8c 53 24 d8 e7 27 3a 02 0a 95 7e 2f c8 
+encrypted block before shuffle: bc 8c d7 39 82 4c 1f 3c f7 81 6e 20 30 1d ab f3 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: 51 ae 64 49 6b 22 10 a0 52 fb 45 a8 11 5b ac c7 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: 30 10 a2 8c 53 24 d8 e7 27 3a 02 0a 95 7e 2f c8 
+plaintext before xor with CBC: 45 64 a8 ae 10 51 ac c7 52 49 22 6b fb 11 5b a0 
+after plaintext xor CBC: 75 74 0a 22 43 75 74 20 75 73 20 61 6e 6f 74 68 
+
+prev_cipher: bc 8c d7 39 82 4c 1f 3c f7 81 6e 20 30 1d ab f3 
+encrypted block before shuffle: 17 a6 7a 87 c2 c6 11 b0 9e 2a 3e 75 d6 01 09 3d 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: 4a 74 d9 27 9b d8 ee 7c 8b 00 25 cd 47 f7 fe 59 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: bc 8c d7 39 82 4c 1f 3c f7 81 6e 20 30 1d ab f3 
+plaintext before xor with CBC: d9 fe f7 4a ee 25 7c 59 cd 8b 27 00 47 74 d8 9b 
+after plaintext xor CBC: 65 72 20 73 6c 69 63 65 3a 0a 49 20 77 69 73 68 
+
+prev_cipher: 17 a6 7a 87 c2 c6 11 b0 9e 2a 3e 75 d6 01 09 3d 
+encrypted block before shuffle: 12 98 68 da e8 db d8 4d cd 38 7f 4a f3 f6 25 ec 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: df 1a fb 0a 21 15 37 b1 48 e2 74 a2 f2 50 c2 78 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 17 a6 7a 87 c2 c6 11 b0 9e 2a 3e 75 d6 01 09 3d 
+plaintext before xor with CBC: 37 df 15 f2 e2 b1 74 c2 fb 0a 50 1a a2 21 78 48 
+after plaintext xor CBC: 20 79 6f 75 20 77 65 72 65 20 6e 6f 74 20 71 75 
+
+prev_cipher: 12 98 68 da e8 db d8 4d cd 38 7f 4a f3 f6 25 ec 
+encrypted block before shuffle: 46 5e 5d 59 c5 86 25 e7 19 22 f6 ac ea 4f fe a3 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: 7b 6c de 59 fc f8 fa cb ec a8 0d b4 9b 19 29 67 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: 12 98 68 da e8 db d8 4d cd 38 7f 4a f3 f6 25 ec 
+plaintext before xor with CBC: 7b ec 0d fa 9b b4 f8 29 a8 59 19 67 de fc 6c cb 
+after plaintext xor CBC: 69 74 65 20 73 6f 20 64 65 61 66 2d 2d 0a 49 27 
+
+prev_cipher: 46 5e 5d 59 c5 86 25 e7 19 22 f6 ac ea 4f fe a3 
+encrypted block before shuffle: 61 3d 0e 32 28 2b 5c be c1 55 db cf d0 91 fc 82 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: cc df 7d 02 81 05 93 e2 a4 6f 30 87 31 97 3b 76 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: 46 5e 5d 59 c5 86 25 e7 19 22 f6 ac ea 4f fe a3 
+plaintext before xor with CBC: 30 3b 7d 31 a4 e2 05 93 76 02 97 df 81 6f 87 cc 
+after plaintext xor CBC: 76 65 20 68 61 64 20 74 6f 20 61 73 6b 20 79 6f 
+
+prev_cipher: 61 3d 0e 32 28 2b 5c be c1 55 db cf d0 91 fc 82 
+encrypted block before shuffle: 58 4e 22 59 46 a4 f7 98 4a 0f c6 e1 b2 47 66 c9 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: 45 dc 41 39 5f 7a 48 14 9f e5 1d 99 e3 f1 d1 ed 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 61 3d 0e 32 28 2b 5c be c1 55 db cf d0 91 fc 82 
+plaintext before xor with CBC: 14 1d 7a 45 41 48 39 9f e3 5f d1 ed 99 e5 dc f1 
+after plaintext xor CBC: 75 20 74 77 69 63 65 21 22 0a 0a 22 49 74 20 73 
+
+prev_cipher: 58 4e 22 59 46 a4 f7 98 4a 0f c6 e1 b2 47 66 c9 
+encrypted block before shuffle: e3 dc 35 55 c6 a4 78 fa 20 27 20 2c ea 44 9a ff 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 6e 9e 66 c5 4f 2a d7 46 65 bd eb 84 2b 22 3d ab 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: 58 4e 22 59 46 a4 f7 98 4a 0f c6 e1 b2 47 66 c9 
+plaintext before xor with CBC: 3d 2b 4f 2a 66 c5 d7 eb 22 6e ab 84 9e 65 46 bd 
+after plaintext xor CBC: 65 65 6d 73 20 61 20 73 68 61 6d 65 2c 22 20 74 
+
+prev_cipher: e3 dc 35 55 c6 a4 78 fa 20 27 20 2c ea 44 9a ff 
+encrypted block before shuffle: 7e f8 63 79 0c 73 29 eb e6 c5 b9 10 96 45 1c 91 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: 83 0a 20 b9 f5 4d b6 07 53 8f 02 c8 a7 53 8b 15 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: e3 dc 35 55 c6 a4 78 fa 20 27 20 2c ea 44 9a ff 
+plaintext before xor with CBC: 8b b9 15 02 a7 c8 0a 8f 53 07 53 4d 83 20 b6 f5 
+after plaintext xor CBC: 68 65 20 57 61 6c 72 75 73 20 73 61 69 64 2c 0a 
+
+prev_cipher: 7e f8 63 79 0c 73 29 eb e6 c5 b9 10 96 45 1c 91 
+encrypted block before shuffle: 31 d7 2c a9 af 3f 23 f8 b7 9f 50 74 10 8e e8 b8 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 5c 75 1f 59 c6 d1 ac e4 92 65 fb 7c b1 48 6f 0c 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 7e f8 63 79 0c 73 29 eb e6 c5 b9 10 96 45 1c 91 
+plaintext before xor with CBC: 5c ac 0c 59 7c 1f 48 92 c6 b1 d1 75 fb 65 6f e4 
+after plaintext xor CBC: 22 54 6f 20 70 6c 61 79 20 74 68 65 6d 20 73 75 
+
+prev_cipher: 31 d7 2c a9 af 3f 23 f8 b7 9f 50 74 10 8e e8 b8 
+encrypted block before shuffle: 15 ed 71 f4 31 02 a2 1d de d4 e7 34 9e 82 26 75 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: c8 bf 52 d4 e8 9c dd 51 4b 7e 7c 0c 8f f4 51 91 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: 31 d7 2c a9 af 3f 23 f8 b7 9f 50 74 10 8e e8 b8 
+plaintext before xor with CBC: 52 bf 0c c8 8f 4b 51 91 d4 f4 7c 7e 51 e8 9c dd 
+after plaintext xor CBC: 63 68 20 61 20 74 72 69 63 6b 2c 0a 41 66 74 65 
+
+prev_cipher: 15 ed 71 f4 31 02 a2 1d de d4 e7 34 9e 82 26 75 
+encrypted block before shuffle: 4b 50 52 9d 1c c6 96 1b 94 b0 ff d4 bc 30 c1 d3 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: 06 52 41 cd 55 88 f9 67 91 ea 74 bc 3d 16 a6 c7 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: 15 ed 71 f4 31 02 a2 1d de d4 e7 34 9e 82 26 75 
+plaintext before xor with CBC: 67 cd 06 91 16 74 c7 3d bc a6 88 41 f9 ea 52 55 
+after plaintext xor CBC: 72 20 77 65 27 76 65 20 62 72 6f 75 67 68 74 20 
+
+prev_cipher: 4b 50 52 9d 1c c6 96 1b 94 b0 ff d4 bc 30 c1 d3 
+encrypted block before shuffle: 67 1b 52 bf 85 3d ab c3 42 fa cf 2b 61 35 a8 7c 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: da a9 51 3f 3c c3 f4 6f 37 f0 b4 b3 90 e3 ff 38 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 4b 50 52 9d 1c c6 96 1b 94 b0 ff d4 bc 30 c1 d3 
+plaintext before xor with CBC: 3f 38 37 f0 3c a9 e3 6f b4 c3 90 f4 da 51 b3 ff 
+after plaintext xor CBC: 74 68 65 6d 20 6f 75 74 20 73 6f 20 66 61 72 2c 
+
+prev_cipher: 67 1b 52 bf 85 3d ab c3 42 fa cf 2b 61 35 a8 7c 
+encrypted block before shuffle: 6e ea 29 b8 f2 15 73 7b bf 70 06 90 46 82 17 d1 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: 43 88 da 08 db bb 3c a7 5a ca 6d 58 27 04 50 a5 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 67 1b 52 bf 85 3d ab c3 42 fa cf 2b 61 35 a8 7c 
+plaintext before xor with CBC: 6d 5a 3c db a5 50 ca a7 27 da bb 43 04 58 88 08 
+after plaintext xor CBC: 0a 41 6e 64 20 6d 61 64 65 20 74 68 65 6d 20 74 
+
+prev_cipher: 6e ea 29 b8 f2 15 73 7b bf 70 06 90 46 82 17 d1 
+encrypted block before shuffle: fa 0b 66 ea ca a5 ba 69 48 ca da e4 49 6b 4d 6e 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 67 19 85 0a 53 fb 85 65 1d a0 81 1c 98 5d 7a ca 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 6e ea 29 b8 f2 15 73 7b bf 70 06 90 46 82 17 d1 
+plaintext before xor with CBC: 1c 85 5d 98 81 7a 53 0a ca 19 65 fb 67 a0 1d 85 
+after plaintext xor CBC: 72 6f 74 20 73 6f 20 71 75 69 63 6b 21 22 0a 54 
+
+prev_cipher: fa 0b 66 ea ca a5 ba 69 48 ca da e4 49 6b 4d 6e 
+encrypted block before shuffle: 21 54 df 56 a0 9c 91 1a c2 74 53 83 96 59 ed bd 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: 2c 96 0c 46 a9 92 be 26 07 6e 18 ab d7 bf ca 69 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: fa 0b 66 ea ca a5 ba 69 48 ca da e4 49 6b 4d 6e 
+plaintext before xor with CBC: 92 6e 46 a9 ab d7 ca 0c 26 be bf 96 69 18 2c 07 
+after plaintext xor CBC: 68 65 20 43 61 72 70 65 6e 74 65 72 20 73 61 69 
+
+prev_cipher: 21 54 df 56 a0 9c 91 1a c2 74 53 83 96 59 ed bd 
+encrypted block before shuffle: 38 26 90 8f ad 1b ae 98 d7 f3 c3 b1 80 e2 e1 70 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: 45 54 53 cf d4 a5 b1 f4 e2 39 f8 e9 31 74 f6 74 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: 21 54 df 56 a0 9c 91 1a c2 74 53 83 96 59 ed bd 
+plaintext before xor with CBC: 45 74 b1 39 d4 f4 f8 74 a5 54 31 f6 e2 53 cf e9 
+after plaintext xor CBC: 64 20 6e 6f 74 68 69 6e 67 20 62 75 74 0a 22 54 
+
+prev_cipher: 38 26 90 8f ad 1b ae 98 d7 f3 c3 b1 80 e2 e1 70 
+encrypted block before shuffle: 82 cf f0 a4 78 de d7 89 00 89 7b 38 b3 d5 dd c9 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: 6f ed 43 d4 91 b0 d8 15 a5 f3 50 b0 92 93 da fd 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: 38 26 90 8f ad 1b ae 98 d7 f3 c3 b1 80 e2 e1 70 
+plaintext before xor with CBC: 50 43 b0 ed d8 6f da fd a5 d4 b0 91 f3 92 93 15 
+after plaintext xor CBC: 68 65 20 62 75 74 74 65 72 27 73 20 73 70 72 65 
+
+prev_cipher: 82 cf f0 a4 78 de d7 89 00 89 7b 38 b3 d5 dd c9 
+encrypted block before shuffle: 8d 25 40 b8 9a c9 e8 3b f5 79 aa d0 03 26 5c 99 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: d0 f7 e3 18 c3 d7 17 f7 e0 53 b1 68 92 d0 ab fd 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: 82 cf f0 a4 78 de d7 89 00 89 7b 38 b3 d5 dd c9 
+plaintext before xor with CBC: e3 ab d0 d0 17 b1 f7 fd 68 e0 18 53 92 f7 d7 c3 
+after plaintext xor CBC: 61 64 20 74 6f 6f 20 74 68 69 63 6b 21 22 0a 0a 
+
+prev_cipher: 8d 25 40 b8 9a c9 e8 3b f5 79 aa d0 03 26 5c 99 
+encrypted block before shuffle: a1 72 00 c6 80 ae 40 50 30 25 93 92 ce 7e fc bd 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: 6c f0 93 16 49 60 af ac b5 ff 98 7a cf d8 1b 29 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 8d 25 40 b8 9a c9 e8 3b f5 79 aa d0 03 26 5c 99 
+plaintext before xor with CBC: af 6c 60 cf ff ac 98 1b 93 16 d8 f0 7a 49 29 b5 
+after plaintext xor CBC: 22 49 20 77 65 65 70 20 66 6f 72 20 79 6f 75 2c 
+
+prev_cipher: a1 72 00 c6 80 ae 40 50 30 25 93 92 ce 7e fc bd 
+encrypted block before shuffle: be af 6d 57 34 69 71 f8 a7 d6 8f 96 94 b0 e6 25 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: 83 9d ee 57 0d 17 ae d4 52 5c 74 8e e5 e6 31 e1 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: a1 72 00 c6 80 ae 40 50 30 25 93 92 ce 7e fc bd 
+plaintext before xor with CBC: 83 52 74 ae e5 8e 17 31 5c 57 e6 e1 ee 0d 9d d4 
+after plaintext xor CBC: 22 20 74 68 65 20 57 61 6c 72 75 73 20 73 61 69 
+
+prev_cipher: be af 6d 57 34 69 71 f8 a7 d6 8f 96 94 b0 e6 25 
+encrypted block before shuffle: e5 0d 14 96 1d 3b 52 15 18 f9 31 d7 94 e5 46 36 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: 48 ef 67 a6 b4 15 9d 49 7d c3 da 9f 75 e3 81 c2 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: be af 6d 57 34 69 71 f8 a7 d6 8f 96 94 b0 e6 25 
+plaintext before xor with CBC: da 81 67 75 7d 49 15 9d c2 a6 e3 ef b4 c3 9f 48 
+after plaintext xor CBC: 64 2e 0a 22 49 20 64 65 65 70 6c 79 20 73 79 6d 
+
+prev_cipher: e5 0d 14 96 1d 3b 52 15 18 f9 31 d7 94 e5 46 36 
+encrypted block before shuffle: e3 f4 17 57 ea be fe 19 ee 67 b7 98 6b f3 d1 9a 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: fe 66 74 37 f3 60 41 95 3b 8d 6c e0 3a 45 66 be 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: e5 0d 14 96 1d 3b 52 15 18 f9 31 d7 94 e5 46 36 
+plaintext before xor with CBC: 95 6c 60 fe 74 41 37 3b 3a f3 66 be e0 8d 66 45 
+after plaintext xor CBC: 70 61 74 68 69 7a 65 2e 22 0a 57 69 74 68 20 73 
+
+prev_cipher: e3 f4 17 57 ea be fe 19 ee 67 b7 98 6b f3 d1 9a 
+encrypted block before shuffle: 8f 5a d8 40 ed f9 35 05 96 65 f2 42 57 fc 2b 82 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 02 18 8b d0 64 77 9a b9 d3 ff 39 ea 96 9a 8c d6 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: e3 f4 17 57 ea be fe 19 ee 67 b7 98 6b f3 d1 9a 
+plaintext before xor with CBC: 8c 96 64 77 8b d0 9a 39 9a 02 d6 ea 18 d3 b9 ff 
+after plaintext xor CBC: 6f 62 73 20 61 6e 64 20 74 65 61 72 73 20 68 65 
+
+prev_cipher: 8f 5a d8 40 ed f9 35 05 96 65 f2 42 57 fc 2b 82 
+encrypted block before shuffle: fe a3 d7 e9 08 76 db fc 33 6f 89 44 a8 ef 38 33 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: 03 51 94 29 f1 48 44 10 86 25 32 9c 99 f9 af b7 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: 8f 5a d8 40 ed f9 35 05 96 65 f2 42 57 fc 2b 82 
+plaintext before xor with CBC: af 29 b7 32 99 9c 51 25 f9 10 86 48 03 94 44 f1 
+after plaintext xor CBC: 20 73 6f 72 74 65 64 20 6f 75 74 0a 54 68 6f 73 
+
+prev_cipher: fe a3 d7 e9 08 76 db fc 33 6f 89 44 a8 ef 38 33 
+encrypted block before shuffle: f6 94 31 7f 7a 06 0c 5b bc 70 64 20 a2 75 cc 0c 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 9b 36 02 8f 13 e8 83 47 99 8a cf 28 03 b3 4b b8 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: fe a3 d7 e9 08 76 db fc 33 6f 89 44 a8 ef 38 33 
+plaintext before xor with CBC: 9b 83 b8 8f 28 02 b3 99 13 03 e8 36 cf 8a 4b 47 
+after plaintext xor CBC: 65 20 6f 66 20 74 68 65 20 6c 61 72 67 65 73 74 
+
+prev_cipher: f6 94 31 7f 7a 06 0c 5b bc 70 64 20 a2 75 cc 0c 
+encrypted block before shuffle: d8 b5 f5 f3 cb 72 1b 4a bd e3 9b 60 0e 6a bb f7 
+keystream: dd 52 23 20 d9 9e 7f 4c 95 aa 9b 38 11 76 77 e4 
+after xor with keystream: 05 e7 d6 d3 12 ec 64 06 28 49 00 58 1f 1c cc 13 
+15: swapping (4,14)
+14: swapping (7,7)
+13: swapping (6,7)
+12: swapping (1,1)
+11: swapping (8,3)
+10: swapping (11,9)
+9: swapping (10,10)
+8: swapping (5,9)
+7: swapping (12,4)
+6: swapping (15,7)
+5: swapping (14,9)
+4: swapping (9,13)
+3: swapping (0,2)
+2: swapping (3,2)
+1: swapping (2,5)
+0: swapping (13,13)
+CBC: f6 94 31 7f 7a 06 0c 5b bc 70 64 20 a2 75 cc 0c 
+plaintext before xor with CBC: d6 e7 58 05 1f 28 06 13 d3 1c 00 49 cc 12 ec 64 
+after plaintext xor CBC: 20 73 69 7a 65 2e 0a 48 6f 6c 64 69 6e 67 20 68 
+
+prev_cipher: d8 b5 f5 f3 cb 72 1b 4a bd e3 9b 60 0e 6a bb f7 
+encrypted block before shuffle: 98 d2 12 96 db bd 0f cd 86 54 9a a1 ae 82 a4 64 
+keystream: 4d 02 13 50 49 4e 6f 7c 05 5a 8b 68 81 26 67 14 
+after xor with keystream: d5 d0 01 c6 92 f3 60 b1 83 0e 11 c9 2f a4 c3 70 
+15: swapping (4,1)
+14: swapping (7,6)
+13: swapping (6,2)
+12: swapping (1,8)
+11: swapping (8,6)
+10: swapping (11,8)
+9: swapping (10,5)
+8: swapping (5,0)
+7: swapping (12,7)
+6: swapping (15,6)
+5: swapping (14,4)
+4: swapping (9,4)
+3: swapping (0,5)
+2: swapping (3,1)
+1: swapping (2,0)
+0: swapping (13,4)
+CBC: d8 b5 f5 f3 cb 72 1b 4a bd e3 9b 60 0e 6a bb f7 
+plaintext before xor with CBC: b1 c6 d5 83 a4 11 70 2f c9 c3 f3 01 60 0e d0 92 
+after plaintext xor CBC: 69 73 20 70 6f 63 6b 65 74 20 68 61 6e 64 6b 65 
+
+prev_cipher: 98 d2 12 96 db bd 0f cd 86 54 9a a1 ae 82 a4 64 
+encrypted block before shuffle: 76 69 a1 6a 07 cc 8c 23 0f f5 98 54 04 d3 5a f5 
+keystream: bd b2 03 80 b9 fe 5f ac 75 0a 7b 98 f1 d6 57 44 
+after xor with keystream: cb db a2 ea be 32 d3 8f 7a ff e3 cc f5 05 0d b1 
+15: swapping (4,4)
+14: swapping (7,5)
+13: swapping (6,13)
+12: swapping (1,15)
+11: swapping (8,9)
+10: swapping (11,7)
+9: swapping (10,0)
+8: swapping (5,7)
+7: swapping (12,10)
+6: swapping (15,5)
+5: swapping (14,15)
+4: swapping (9,11)
+3: swapping (0,8)
+2: swapping (3,0)
+1: swapping (2,11)
+0: swapping (13,11)
+CBC: 98 d2 12 96 db bd 0f cd 86 54 9a a1 ae 82 a4 64 
+plaintext before xor with CBC: ea b1 7a ff be db 05 8f e3 32 f5 d3 cb a2 cc 0d 
+after plaintext xor CBC: 72 63 68 69 65 66 0a 42 65 66 6f 72 65 20 68 69 
+
+prev_cipher: 76 69 a1 6a 07 cc 8c 23 0f f5 98 54 04 d3 5a f5 
+encrypted block before shuffle: 59 5d 68 36 37 51 9d 92 ac 57 6e 62 07 e7 ee 01 
+keystream: 2d 62 f3 b0 29 ae 4f dc e5 ba 6b c8 61 86 47 74 
+after xor with keystream: 74 3f 9b 86 1e ff d2 4e 49 ed 05 aa 66 61 a9 75 
+15: swapping (4,7)
+14: swapping (7,4)
+13: swapping (6,8)
+12: swapping (1,6)
+11: swapping (8,12)
+10: swapping (11,6)
+9: swapping (10,11)
+8: swapping (5,14)
+7: swapping (12,13)
+6: swapping (15,4)
+5: swapping (14,10)
+4: swapping (9,2)
+3: swapping (0,11)
+2: swapping (3,15)
+1: swapping (2,6)
+0: swapping (13,2)
+CBC: 76 69 a1 6a 07 cc 8c 23 0f f5 98 54 04 d3 5a f5 
+plaintext before xor with CBC: 05 49 d2 1e 75 a9 ed 4e 66 9b ff 74 61 aa 3f 86 
+after plaintext xor CBC: 73 20 73 74 72 65 61 6d 69 6e 67 20 65 79 65 73 
+
+prev_cipher: 59 5d 68 36 37 51 9d 92 ac 57 6e 62 07 e7 ee 01 
+encrypted block before shuffle: e9 31 b4 0b 4b 4e 1e 07 99 a1 23 8f c5 54 46 7b 
+keystream: 9d 12 e3 e0 99 5e 3f 0c 55 6a 5b f8 d1 36 37 a4 
+after xor with keystream: 74 23 57 eb d2 10 21 0b cc cb 78 77 14 62 71 df 
+15: swapping (4,10)
+14: swapping (7,3)
+13: swapping (6,3)
+12: swapping (1,13)
+11: swapping (8,15)
+10: swapping (11,5)
+9: swapping (10,6)
+8: swapping (5,5)
+7: swapping (12,0)
+6: swapping (15,3)
+5: swapping (14,5)
+4: swapping (9,9)
+3: swapping (0,14)
+2: swapping (3,14)
+1: swapping (2,1)
+0: swapping (13,9)
+CBC: 59 5d 68 36 37 51 9d 92 ac 57 6e 62 07 e7 ee 01 
+plaintext before xor with CBC: 77 57 62 14 78 71 d2 eb df 23 0b 10 74 cb cc 21 
+after plaintext xor CBC: 2e 0a 0a 22 4f 20 4f 79 73 74 65 72 73 2c 22 20 
+
+prev_cipher: e9 31 b4 0b 4b 4e 1e 07 99 a1 23 8f c5 54 46 7b 
+encrypted block before shuffle: 25 3f b1 cd 66 94 cd 85 ca 4a 7a 43 7b a4 51 61 
+keystream: 0d c2 d3 10 09 0e 2f 3c c5 1a 4b 28 41 e6 27 d4 
+after xor with keystream: 28 fd 62 dd 6f 9a e2 b9 0f 50 31 6b 3a 42 76 b5 
+15: swapping (4,13)
+14: swapping (7,2)
+13: swapping (6,14)
+12: swapping (1,4)
+11: swapping (8,2)
+10: swapping (11,4)
+9: swapping (10,1)
+8: swapping (5,12)
+7: swapping (12,3)
+6: swapping (15,2)
+5: swapping (14,0)
+4: swapping (9,0)
+3: swapping (0,1)
+2: swapping (3,13)
+1: swapping (2,12)
+0: swapping (13,0)
+CBC: e9 31 b4 0b 4b 4e 1e 07 99 a1 23 8f c5 54 46 7b 
+plaintext before xor with CBC: 9a 50 dd 6f 6b 3a 76 62 b9 e2 42 fd b5 31 28 0f 
+after plaintext xor CBC: 73 61 69 64 20 74 68 65 20 43 61 72 70 65 6e 74 
+
+prev_cipher: 25 3f b1 cd 66 94 cd 85 ca 4a 7a 43 7b a4 51 61 
+encrypted block before shuffle: 3d 4e 06 75 3d 53 80 a1 26 0d 99 19 ae 66 74 49 
+keystream: 7d 72 c3 40 79 be 1f 6c 35 ca 3b 58 b1 96 17 04 
+after xor with keystream: 40 3c c5 35 44 ed 9f cd 13 c7 a2 41 1f f0 63 4d 
+15: swapping (4,0)
+14: swapping (7,1)
+13: swapping (6,9)
+12: swapping (1,11)
+11: swapping (8,5)
+10: swapping (11,3)
+9: swapping (10,12)
+8: swapping (5,3)
+7: swapping (12,6)
+6: swapping (15,1)
+5: swapping (14,11)
+4: swapping (9,7)
+3: swapping (0,4)
+2: swapping (3,12)
+1: swapping (2,7)
+0: swapping (13,7)
+CBC: 25 3f b1 cd 66 94 cd 85 ca 4a 7a 43 7b a4 51 61 
+plaintext before xor with CBC: 40 4d 9f c7 44 cd a2 f0 ed 3c 1f 63 13 c5 35 41 
+after plaintext xor CBC: 65 72 2e 0a 22 59 6f 75 27 76 65 20 68 61 64 20 
+
+prev_cipher: 3d 4e 06 75 3d 53 80 a1 26 0d 99 19 ae 66 74 49 
+encrypted block before shuffle: df 3b dd 09 82 d7 57 df ed a1 77 fe 29 13 f4 f4 
+keystream: ed 22 b3 70 e9 6e 0f 9c a5 7a 2b 88 21 46 07 34 
+after xor with keystream: 32 19 6e 79 6b b9 58 43 48 db 5c 76 08 55 f3 c0 
+15: swapping (4,3)
+14: swapping (7,0)
+13: swapping (6,4)
+12: swapping (1,2)
+11: swapping (8,8)
+10: swapping (11,2)
+9: swapping (10,7)
+8: swapping (5,10)
+7: swapping (12,9)
+6: swapping (15,0)
+5: swapping (14,6)
+4: swapping (9,14)
+3: swapping (0,7)
+2: swapping (3,11)
+1: swapping (2,2)
+0: swapping (13,14)
+CBC: 3d 4e 06 75 3d 53 80 a1 26 0d 99 19 ae 66 74 49 
+plaintext before xor with CBC: 5c 6e 76 19 58 32 f3 c0 48 79 b9 6b db 08 55 43 
+after plaintext xor CBC: 61 20 70 6c 65 61 73 61 6e 74 20 72 75 6e 21 0a 
+
+prev_cipher: df 3b dd 09 82 d7 57 df ed a1 77 fe 29 13 f4 f4 
+encrypted block before shuffle: 38 b3 2f b2 d9 85 11 ec d6 f4 ec 75 cc 4a a4 de 
+keystream: 5d d2 a3 a0 59 1e ff cc 15 2a 1b b8 91 f6 f7 64 
+after xor with keystream: 65 61 8c 12 80 9b ee 20 c3 de f7 cd 5d bc 53 ba 
+15: swapping (4,6)
+14: swapping (7,15)
+13: swapping (6,15)
+12: swapping (1,9)
+11: swapping (8,11)
+10: swapping (11,1)
+9: swapping (10,2)
+8: swapping (5,1)
+7: swapping (12,12)
+6: swapping (15,15)
+5: swapping (14,1)
+4: swapping (9,5)
+3: swapping (0,10)
+2: swapping (3,10)
+1: swapping (2,13)
+0: swapping (13,5)
+CBC: df 3b dd 09 82 d7 57 df ed a1 77 fe 29 13 f4 f4 
+plaintext before xor with CBC: 8c 53 bc 65 ee f7 20 ba cd c3 12 de 5d 61 9b 80 
+after plaintext xor CBC: 53 68 61 6c 6c 20 77 65 20 62 65 20 74 72 6f 74 
+
+prev_cipher: 38 b3 2f b2 d9 85 11 ec d6 f4 ec 75 cc 4a a4 de 
+encrypted block before shuffle: 17 90 20 04 ea 8f a3 11 64 23 75 45 d4 2b 66 5e 
+keystream: cd 82 93 d0 c9 ce ef fc 85 da 0b e8 01 a6 e7 94 
+after xor with keystream: da 12 b3 d4 23 41 4c ed e1 f9 7e ad d5 8d 81 ca 
+15: swapping (4,9)
+14: swapping (7,14)
+13: swapping (6,10)
+12: swapping (1,0)
+11: swapping (8,14)
+10: swapping (11,0)
+9: swapping (10,13)
+8: swapping (5,8)
+7: swapping (12,15)
+6: swapping (15,14)
+5: swapping (14,12)
+4: swapping (9,12)
+3: swapping (0,13)
+2: swapping (3,9)
+1: swapping (2,8)
+0: swapping (13,12)
+CBC: 38 b3 2f b2 d9 85 11 ec d6 f4 ec 75 cc 4a a4 de 
+plaintext before xor with CBC: 4c da 41 d5 f9 ed 7e 81 b3 d4 8d 12 ad 23 ca e1 
+after plaintext xor CBC: 74 69 6e 67 20 68 6f 6d 65 20 61 67 61 69 6e 3f 
+
+prev_cipher: 17 90 20 04 ea 8f a3 11 64 23 75 45 d4 2b 66 5e 
+encrypted block before shuffle: 08 35 77 54 71 bc ae 1f 6f 9d 99 b7 ef 46 a8 f3 
+keystream: 3d 32 83 00 39 7e df 2c f5 8a fb 18 71 56 d7 c4 
+after xor with keystream: 35 07 f4 54 48 c2 71 33 9a 17 62 af 9e 10 7f 37 
+15: swapping (4,12)
+14: swapping (7,13)
+13: swapping (6,5)
+12: swapping (1,7)
+11: swapping (8,1)
+10: swapping (11,15)
+9: swapping (10,8)
+8: swapping (5,15)
+7: swapping (12,2)
+6: swapping (15,13)
+5: swapping (14,7)
+4: swapping (9,3)
+3: swapping (0,0)
+2: swapping (3,8)
+1: swapping (2,3)
+0: swapping (13,3)
+CBC: 17 90 20 04 ea 8f a3 11 64 23 75 45 d4 2b 66 5e 
+plaintext before xor with CBC: 35 9a 62 71 9e af c2 7f 17 54 10 37 f4 48 07 33 
+after plaintext xor CBC: 22 0a 42 75 74 20 61 6e 73 77 65 72 20 63 61 6d 
+
+prev_cipher: 08 35 77 54 71 bc ae 1f 6f 9d 99 b7 ef 46 a8 f3 
+encrypted block before shuffle: 1f 30 70 c2 6b e5 f0 92 71 51 86 ea dd f1 d2 f5 
+keystream: ad e2 73 30 a9 2e cf 5c 65 3a eb 48 e1 06 c7 f4 
+after xor with keystream: b2 d2 03 f2 c2 cb 3f ce 14 6b 6d a2 3c f7 15 01 
+15: swapping (4,15)
+14: swapping (7,12)
+13: swapping (6,0)
+12: swapping (1,14)
+11: swapping (8,4)
+10: swapping (11,14)
+9: swapping (10,3)
+8: swapping (5,6)
+7: swapping (12,5)
+6: swapping (15,12)
+5: swapping (14,2)
+4: swapping (9,10)
+3: swapping (0,3)
+2: swapping (3,7)
+1: swapping (2,14)
+0: swapping (13,10)
+CBC: 08 35 77 54 71 bc ae 1f 6f 9d 99 b7 ef 46 a8 f3 
+plaintext before xor with CBC: 6d 15 03 3c 14 ce cb 3f 01 f2 f7 d2 c2 6b a2 b2 
+after plaintext xor CBC: 65 20 74 68 65 72 65 20 6e 6f 6e 65 2d 2d 0a 41 
+
+prev_cipher: 1f 30 70 c2 6b e5 f0 92 71 51 86 ea dd f1 d2 f5 
+encrypted block before shuffle: ab 21 60 e4 29 8e 3b fd 67 78 8f d6 57 31 42 ee 
+keystream: 1d 92 63 60 19 de bf 8c d5 ea db 78 51 b6 b7 24 
+after xor with keystream: b6 b3 03 84 30 50 84 71 b2 92 54 ae 06 87 f5 ca 
+15: swapping (4,2)
+14: swapping (7,11)
+13: swapping (6,11)
+12: swapping (1,5)
+11: swapping (8,7)
+10: swapping (11,13)
+9: swapping (10,14)
+8: swapping (5,13)
+7: swapping (12,8)
+6: swapping (15,11)
+5: swapping (14,13)
+4: swapping (9,1)
+3: swapping (0,6)
+2: swapping (3,6)
+1: swapping (2,9)
+0: swapping (13,1)
+CBC: 1f 30 70 c2 6b e5 f0 92 71 51 86 ea dd f1 d2 f5 
+plaintext before xor with CBC: 71 54 50 b6 03 84 84 b2 06 30 f5 ca ae 92 b3 87 
+after plaintext xor CBC: 6e 64 20 74 68 61 74 20 77 61 73 20 73 63 61 72 
+
+prev_cipher: ab 21 60 e4 29 8e 3b fd 67 78 8f d6 57 31 42 ee 
+encrypted block before shuffle: d5 76 5a 71 85 13 f0 8b 15 07 52 1b 85 2d 6f b9 
+keystream: 8d 42 53 90 89 8e af bc 45 9a cb a8 c1 66 a7 54 
+after xor with keystream: 58 34 09 e1 0c 9d 5f 37 50 9d 99 b3 44 4b c8 ed 
+15: swapping (4,5)
+14: swapping (7,10)
+13: swapping (6,6)
+12: swapping (1,12)
+11: swapping (8,10)
+10: swapping (11,12)
+9: swapping (10,9)
+8: swapping (5,4)
+7: swapping (12,11)
+6: swapping (15,10)
+5: swapping (14,8)
+4: swapping (9,8)
+3: swapping (0,9)
+2: swapping (3,5)
+1: swapping (2,4)
+0: swapping (13,8)
+CBC: ab 21 60 e4 29 8e 3b fd 67 78 8f d6 57 31 42 ee 
+plaintext before xor with CBC: c8 44 0c 9d 09 e1 5f 99 4b 58 ed b3 34 50 37 9d 
+after plaintext xor CBC: 63 65 6c 79 20 6f 64 64 2c 20 62 65 63 61 75 73 
+
+prev_cipher: d5 76 5a 71 85 13 f0 8b 15 07 52 1b 85 2d 6f b9 
+encrypted block before shuffle: 1d 25 00 bc 25 51 d0 8e 86 a5 a2 b2 d1 23 27 8a 
+keystream: fd f2 43 c0 f9 3e 9f ec b5 4a bb d8 31 16 97 84 
+after xor with keystream: e0 d7 43 7c dc 6f 4f 62 33 ef 19 6a e0 35 b0 0e 
+15: swapping (4,8)
+14: swapping (7,9)
+13: swapping (6,1)
+12: swapping (1,3)
+11: swapping (8,13)
+10: swapping (11,11)
+9: swapping (10,4)
+8: swapping (5,11)
+7: swapping (12,14)
+6: swapping (15,9)
+5: swapping (14,3)
+4: swapping (9,15)
+3: swapping (0,12)
+2: swapping (3,4)
+1: swapping (2,15)
+0: swapping (13,15)
+CBC: d5 76 5a 71 85 13 f0 8b 15 07 52 1b 85 2d 6f b9 
+plaintext before xor with CBC: b0 7c 0e 19 e0 6a d7 ef 35 62 33 6f e0 43 4f dc 
+after plaintext xor CBC: 65 0a 54 68 65 79 27 64 20 65 61 74 65 6e 20 65 
+
+prev_cipher: 1d 25 00 bc 25 51 d0 8e 86 a5 a2 b2 d1 23 27 8a 
+encrypted block before shuffle: 06 8d 0d 35 c1 cc cf 95 ce da 70 0d e6 78 a3 c6 
+keystream: 6d a2 33 f0 69 ee 8f 1c 25 fa ab 08 a1 c6 87 b4 
+after xor with keystream: 6b 2f 3e c5 a8 22 40 89 eb 20 db 05 47 be 24 72 
+15: swapping (4,11)
+14: swapping (7,8)
+13: swapping (6,12)
+12: swapping (1,10)
+11: swapping (8,0)
+10: swapping (11,10)
+9: swapping (10,15)
+8: swapping (5,2)
+7: swapping (12,1)
+6: swapping (15,8)
+5: swapping (14,14)
+4: swapping (9,6)
+3: swapping (0,15)
+2: swapping (3,3)
+1: swapping (2,10)
+0: swapping (13,6)
+CBC: 1d 25 00 bc 25 51 d0 8e 86 a5 a2 b2 d1 23 27 8a 
+plaintext before xor with CBC: 6b 40 72 c5 05 3e be eb a8 47 22 2f db 20 24 89 
+after plaintext xor CBC: 76 65 72 79 20 6f 6e 65 2e e2 80 9d 0a 03 03 03 
+
+removing padding, start offset=13: value=3
+ciphertextfile=c.txt, plaintextfile=cdecrypt.txt password=monkey01
